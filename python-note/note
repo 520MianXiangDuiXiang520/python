@@ -1,0 +1,26 @@
+python 之 List,Turp,Dict,Set
+1.List and Turp
+    1.1 List：
+        list的创建：l=[1,2,3]
+        list的查找：print(l[0]) #通过索引查找
+        list的插入： list.append() #总是插入在尾部
+                     list.insert(int n,var p) #n为插入位置，p为值
+        list的删除：list.pop(int n) #n为要删除的位置
+    1.2 Turp
+        turp的创建：t=(1,2,3)
+        turp创建后不可修改
+Dict and Set
+    2.1 Dict：
+            dict的创建：d={
+                                key:value,
+                                key:value
+                         }
+            dict的查找：print(d['key'])
+            dict的更新：d['key']=new value
+            dict的遍历：for i in d:
+                            print(i,":",d[i])
+    2.2 Set:
+            set的创建：s=set(list)
+            set的插入：s.add(new)
+            set的删除：s.remove(old)
+            set的遍历：
