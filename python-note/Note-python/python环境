@@ -1,0 +1,22 @@
+1.python 中文编码：
+        在文件开头加入 # -*- coding: UTF-8 -*- 或者 #coding=utf-8
+        Python3.X 源码文件默认使用utf-8编码，所以可以正常解析中文，无需指定 UTF-8 编码。
+2.python标识符：
+        特殊标识符：
+                1._foo 以单下划线开头 _foo 的代表不能直接访问的类属性，需通过类提供的接口进行访问，不能用 from xxx import * 而导入；
+                2.__foo 以双下划线开头的 __foo 代表类的私有成员
+                3.__foo__ 以双下划线开头和结尾的 __foo__ 代表 Python 里特殊方法专用的标识，如 __init__() 代表类的构造函数。
+3.python 保留字：and   assert   break   class   continue    def del elif    else    except  exec    finally
+                 for    from        global  if  import  in  is  lambda  not or  pass    print   raise   return
+                 try while   with    yield
+4.多行语句：用\将一行语句分行显示
+5.引号
+        Python 可以使用引号( ' )、双引号( " )、三引号( ''' 或 """ ) 来表示字符串，引号的开始与结束必须的相同类型的。
+        其中三引号可以由多行组成，编写多行文本的快捷语法，常用于文档字符串，在文件的特定地点，被当做注释。
+6.注释
+        单行：#
+        多行：'''注释''' 或 """注释"""
+7.print()
+        默认换行，不换行在变量后面加","
+        python3后print为函数，需要加()
+

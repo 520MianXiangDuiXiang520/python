@@ -1,0 +1,20 @@
+1.条件语句：
+        if():
+            print()
+        elif():
+            print()
+        else:
+            print()
+2.循环语句：
+        1.for i in range(10):
+            pass
+        2.while (len>0):
+            pass
+        3.!!python没有do-while循环
+        4.pass：空语句，保持程序结构的完整性
+        5.循环else语句：
+                在 python 中，while … else 在循环条件为 false 时执行 else 语句块：
+                在 python 中，for … else 表示这样的意思，for 中的语句和普通的没有区别，else 中的语句会在循环正常执行完
+                    （即 for 不是通过 break 跳出而中断的）的情况下执行，while … else 也是一样。
+
+

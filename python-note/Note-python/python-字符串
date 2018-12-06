@@ -1,0 +1,81 @@
+1.转义：
+        \(在行尾时)	续行符
+        \\	反斜杠符号
+        \'	单引号
+        \"	双引号
+        \a	响铃
+        \b	退格(Backspace)
+        \e	转义
+        \000	空
+        \n	换行
+        \v	纵向制表符
+        \t	横向制表符
+        \r	回车
+        \f	换页
+        \oyy	八进制数，yy代表的字符，例如：\o12代表换行
+        \xyy	十六进制数，yy代表的字符，例如：\x0a代表换行
+        \other	其它的字符以普通格式输出
+2.字符串运算符：
+        1. +
+        2.  *
+        3.  []
+        4.  [:]
+        5.  in
+        6.not in
+        7.r/R:原始字符串,不转义
+        8.% 格式化
+                1.格式化符号：
+                    %c	 格式化字符及其ASCII码
+                    %s	 格式化字符串
+                    %d	 格式化整数
+                    %u	 格式化无符号整型
+                    %o	 格式化无符号八进制数
+                    %x	 格式化无符号十六进制数
+                    %X	 格式化无符号十六进制数（大写）
+                    %f	 格式化浮点数字，可指定小数点后的精度
+                    %e	 用科学计数法格式化浮点数
+                    %E	 作用同%e，用科学计数法格式化浮点数
+                    %g	 %f和%e的简写
+                    %G	 %f 和 %E 的简写
+                    %p	 用十六进制数格式化变量的地址
+                2.格式化辅助
+                    *	定义宽度或者小数点精度
+                    -	用做左对齐
+                    +	在正数前面显示加号( + )
+                    <sp>	在正数前面显示空格
+                    #	在八进制数前面显示零('0')，在十六进制前面显示'0x'或者'0X'(取决于用的是'x'还是'X')
+                    0	显示的数字前面填充'0'而不是默认的空格
+                    %	'%%'输出一个单一的'%'
+                    (var)	映射变量(字典参数)
+                    m.n.	m 是显示的最小总宽度,n 是小数点后的位数(如果可用的话)
+3.'''和"""
+       三引号允许一个字符串跨多行，字符串中可以包含换行符、制表符以及其他特殊字符
+4.常用字符串函数：
+        1.  Python capitalize()将字符串的第一个字母变成大写,其他字母变小写。
+        2.  str.center(width[, fillchar])  返回一个原字符串居中,并使用空格填充至长度 width 的新字符串
+               参数：  width -- 字符串的总宽度。
+                       fillchar -- 填充字符。
+        3.  str.count(sub, start= 0,end=len(string))
+                作用：用于统计字符串里某个字符出现的次数。可选参数为在字符串搜索的开始与结束位置。
+                参数：  sub -- 搜索的子字符串
+                        start -- 字符串开始搜索的位置。默认为第一个字符,第一个字符索引值为0。
+                        end -- 字符串中结束搜索的位置。字符中第一个字符的索引为 0。默认为字符串的最后一个位置。
+        4.  str.endswith(suffix[, start[, end]])
+                作用： 用于判断字符串是否以指定后缀结尾，如果以指定后缀结尾返回True，否则返回False。可选参数"start"与"end"为检索字符串的开始与结束位置。
+                参数：  suffix -- 该参数可以是一个字符串或者是一个元素。
+                        start --字符串中的开始位置。
+                        end -- 字符中结束位置。
+         5.string.find(str, beg=0, end=len(string))检测 str 是否包含在 string 中，如果 beg 和 end 指定范围，则检查是否包含在指定范围内，如果是返回开始的索引值，否则返回-1
+         6.string.format()格式化字符串
+         7.string.index(str, beg=0, end=len(string))跟find()方法一样，只不过如果str不在 string中会报一个异常.
+         7.string.join(seq)以 string 作为分隔符，将 seq 中所有的元素(的字符串表示)合并为一个新的字符串
+         8.string.lower()转换 string 中所有大写字符为小写.
+         9.string.replace(str1, str2,  num=string.count(str1))把 string 中的 str1 替换成 str2,如果 num 指定，则替换不超过 num 次.
+         10.string.rfind(str, beg=0,end=len(string) )类似于 find()函数，不过是从右边开始查找.
+         11.string.rindex( str, beg=0,end=len(string))类似于 index()，不过是从右边开始.
+         12.string.split(str="", num=string.count(str))以 str 为分隔符切片 string，如果 num有指定值，则仅分隔 num 个子字符串
+         13.string.splitlines([keepends])按照行('\r', '\r\n', \n')分隔，返回一个包含各行作为元素的列表，如果参数 keepends 为 False，不包含换行符，如果为 True，则保留换行符。
+         14.string.startswith(obj, beg=0,end=len(string))检查字符串是否是以 obj 开头，是则返回 True，否则返回 False。如果beg 和 end 指定值，则在指定范围内检查。
+         15.string.swapcase()翻转 string 中的大小写
+         16.string.title()返回"标题化"的 string,就是说所有单词都是以大写开始，其余字母均为小写(见 istitle())
+         17.string.upper()转换 string 中的小写字母为大写
