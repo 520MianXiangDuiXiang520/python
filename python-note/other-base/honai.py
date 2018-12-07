@@ -6,9 +6,4 @@ def honai(num,left,right,mid):
         print("{}:{}->{}".format(1,left,right))
         count+=1
     else:
-        honai(num-1,left,mid,right)
-        print("{}:{}->{}". format(num, left, right))
-        count +=1
-        honai(num-1,mid,right,left)
-honai(2,"A","B","C")
-print(count)
+        honai(num-1,left,mid,right) 

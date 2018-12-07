@@ -1,5 +1,5 @@
 import time
-import Calender
+import calendar
 #获取本地时间
 # 格式化成2016-03-20 11:45:39形式
 print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
@@ -13,6 +13,6 @@ print(time.strftime("%a %b %d %H:%M:%S %Y", time.localtime()))
 a = "Sat Mar 28 22:24:24 2016"
 print(time.mktime(time.strptime(a, "%a %b %d %H:%M:%S %Y")))
 
-cal = calendar.month(2016, 1)
-print "以下输出2016年1月份的日历:"
-print cal
+cal = calendar.month(2018, 12)
+print ("以下输出2018年12月份的日历:")
+print (cal)

@@ -1,0 +1,18 @@
+1.函数定义：函数以def开头，之后接着函数名和参数
+        def functionname(parameters):
+            #函数体
+            pass
+2.函数调用： functionname (parameters)
+3.参数传递：
+4.匿名函数：python 使用 lambda 来创建匿名函数
+        lambda [arg1 [,arg2,.....argn]]:expression
+        例：num1=1;num2=2
+            num=lambda num1,num2:num1+num2;
+            print(num)
+            >>3
+5.作用域
+        1.全局变量：
+            在整个文件内都有效
+        2.局部变量：
+            只在函数内部有效
+
