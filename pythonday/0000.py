@@ -41,9 +41,15 @@ im=Image.open('0000/0000.jpg','r')
 #在图片上写字
 #imagefont参考csdn，https://blog.csdn.net/icamera0/article/details/50762050
 text='1'
-imtext=im
+imtext=Image.open('0000/cut.jpeg')
+imtext_chinese=im
 draw = ImageDraw.Draw(imtext)
-font = ImageFont.truetype('./simhei.ttf',75)
-draw.text((10,60),text, fill=(255,0,0))
+font = ImageFont.truetype('./simhei.ttf',45)
+draw.text((60,10),text, font=font,fill=(255,0,0))
 imtext.show()
 imtext.save("0000/text.jpeg",'jpeg')
+draw = ImageDraw.Draw(imtext_chinese)
+font = ImageFont.truetype('./simhei.ttf',75)
+draw.text((60,10),u'面向对象', font=font,fill=(255,0,0))
+imtext_chinese.show()
+imtext_chinese.save("0000/text_chinese.jpeg",'jpeg')
