@@ -12,4 +12,4 @@
 ### 第0002题
 * 12/14
 * 将 0001 题生成的 200 个激活码（或者优惠券）保存到 **MySQL** 关系型数据库中。
-* ![picture](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/EZTYD%25VS5%7DRURBAYCGFP%5DBV.png){:width=100px,height=100px}
+* ![picture](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/1.jpg){:width=100px,height=100px}
