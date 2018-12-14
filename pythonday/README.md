@@ -13,3 +13,7 @@
 * 12/14
 * 将 0001 题生成的 200 个激活码（或者优惠券）保存到 **MySQL** 关系型数据库中。
 * ![picture](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/1.jpg)
+### 第0003题
+* 12/14
+* 任一个英文的纯文本文件（我用了[小王子英文版全文](https://pan.baidu.com/s/11mRRl)），统计其中的单词出现的个数。
+* ![picture](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0003.jpg)
