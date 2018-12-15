@@ -22,3 +22,7 @@
 * 12/14
 * 你有一个目录，放了你一个月的日记（我用了《星球大战》原文），都是 txt，为了避免分词的问题，假设内容都是英文，请统计出每篇日记中出现次数最多的词。
 * ![picture](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0004.jpg)
+### 第 0005 题
+* 12/15
+* 爬取**豆瓣Top250**
+* ![picture](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0005.jpg)
