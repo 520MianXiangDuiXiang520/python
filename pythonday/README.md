@@ -26,3 +26,8 @@
 * 12/15
 * 爬取**豆瓣Top250**
 * ![picture](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0005.jpg)
+### 第 0006 题
+* 12/15
+* 你有一个目录，装了很多照片（昨天爬的豆瓣海报），把它们的尺寸变成都不大于 iPhone5 分辨率的大小。
+* ![picture](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0006.jpg)
+*  ![picture](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0006-1.jpg)
