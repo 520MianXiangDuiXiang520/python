@@ -8,4 +8,5 @@
 * 根着中国大学mooc写的几个基础爬虫
 ## 3.每天学点python
 * 每天一道python题
-  
+## [4.每十分钟抓取日本himawari-8气象卫星照片，设置成window桌面(打包了一下)](https://github.com/zhanglihow/Live_Earth)
+ 
