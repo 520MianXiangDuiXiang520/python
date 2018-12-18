@@ -35,3 +35,12 @@
 * 12/16
 * 有个目录，里面是你自己写过的程序，统计一下你写过多少行代码。包括空行和注释，但是要分别列出来。
 *  ![picture](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0007.jpg)
+### 第 0008 题
+* 12/17
+* 你有一个HTML页面，找出他的正文和链接
+### 第 0009 题
+* 12/17
+*  使用 Python 生成类似于下图中的**字母验证码图片**
+![字母验证码](http://i.imgur.com/aVhbegV.jpg)
+* [python PIL 模块参考](https://blog.csdn.net/guduruyu/article/details/71213717)
+* ![效果](https://github.com/520MianXiangDuiXiang520/python/blob/master/pythonday/0009.jpeg)
