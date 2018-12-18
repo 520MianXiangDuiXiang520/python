@@ -43,4 +43,6 @@
 *  使用 Python 生成类似于下图中的**字母验证码图片**
 ![字母验证码](http://i.imgur.com/aVhbegV.jpg)
 * [python PIL 模块参考](https://blog.csdn.net/guduruyu/article/details/71213717)
-* ![效果](https://github.com/520MianXiangDuiXiang520/python/blob/master/pythonday/0009.jpeg)
+* ![效果](https://server.9yuntu.cn/doc/NV2gp138mtWjYcHcRbdIl0)
+* PIL支持的颜色
+* ![color](https://server.9yuntu.cn/doc/NV2gp1FJFemQPo6bxrV506)
