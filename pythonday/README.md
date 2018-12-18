@@ -41,8 +41,6 @@
 ### 第 0009 题
 * 12/17
 *  使用 Python 生成类似于下图中的**字母验证码图片**
-![字母验证码](http://i.imgur.com/aVhbegV.jpg)
+* ![字母验证码](http://i.imgur.com/aVhbegV.jpg)
 * [python PIL 模块参考](https://blog.csdn.net/guduruyu/article/details/71213717)
 * ![效果](http://tie.027cgb.com/150_612828/0009.png)
-* PIL支持的颜色
-* ![color](http://tie.027cgb.com/150_612828/20170505161101193.png)
