@@ -44,3 +44,25 @@
 * ![字母验证码](http://i.imgur.com/aVhbegV.jpg)
 * [python PIL 模块参考](https://blog.csdn.net/guduruyu/article/details/71213717)
 * ![效果](http://tie.027cgb.com/150_612828/0009.png)
+### 第 0010 题
+* 12/18
+* 敏感词文本文件 0010.txt，里面的内容为以下内容，当用户输入敏感词语时，用*替换
+```text
+牛比
+牛逼
+你娘
+你妈
+吃屎
+```
+运行结果
+```python
+C:\Users\lenovo\AppData\Local\Programs\Python\Python37\python.exe E:/PYthon/pythonday/pythonday/0010.py
+shuru吃屎吧哈哈哈你妈
+Building prefix dict from the default dictionary ...
+Loading model from cache C:\Users\lenovo\AppData\Local\Temp\jieba.cache
+*吧哈哈哈*
+Loading model cost 0.704 seconds.
+Prefix dict has been built succesfully.
+
+Process finished with exit code 0
+```
