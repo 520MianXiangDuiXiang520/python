@@ -55,7 +55,7 @@
 吃屎
 ```
 运行结果
-```python
+```text
 C:\Users\lenovo\AppData\Local\Programs\Python\Python37\python.exe E:/PYthon/pythonday/pythonday/0010.py
 shuru吃屎吧哈哈哈你妈
 Building prefix dict from the default dictionary ...
@@ -66,3 +66,6 @@ Prefix dict has been built succesfully.
 
 Process finished with exit code 0
 ```
+### 第 0010 题
+* 在一段长文本中寻找某个字符串第一次出现的位置
+* KMP算法
