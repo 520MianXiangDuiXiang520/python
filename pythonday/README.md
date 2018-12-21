@@ -43,7 +43,7 @@
 *  使用 Python 生成类似于下图中的**字母验证码图片**
 * ![字母验证码](http://i.imgur.com/aVhbegV.jpg)
 * [python PIL 模块参考](https://blog.csdn.net/guduruyu/article/details/71213717)
-* ![效果](http://tie.027cgb.com/150_612828/0009.png)
+* ![效果](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0009.jpg)
 ### 第 0010 题
 * 12/18
 * 敏感词文本文件 0010.txt，里面的内容为以下内容，当用户输入敏感词语时，用*替换
@@ -67,5 +67,11 @@ Prefix dict has been built succesfully.
 Process finished with exit code 0
 ```
 ### 第 0010 题
+* 12/19
 * 在一段长文本中寻找某个字符串第一次出现的位置
 * KMP算法
+### 第 0011 题
+* 12/21
+* 用 Python 写一个爬图片的程序 [全是小姐姐 -_-!](https://pixabay.com/zh/photos/girl/?image_type=photo)
+* ![errar](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0012.jpg)
+* ![errar](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0012-1.jpg)

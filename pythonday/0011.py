@@ -1,14 +1,5 @@
 # 字符串模式匹配，使用KMP快速匹配算法
 
-# 读取文件内容，产生一个字符串
-
-def getStr(path):
-    str=""
-    file=open(path,'r',encoding='UTF-8')
-    str=file.read()
-    str=repr(str)
-    return str
-
 # 获得KMP next数组
 
 def getNext(strSeq,next):
@@ -26,6 +17,7 @@ def getNext(strSeq,next):
     return next
 
 # KMP 算法
+
 def KMP (seqString,seq,next):
     i=0
     j=0
