@@ -66,12 +66,25 @@ Prefix dict has been built succesfully.
 
 Process finished with exit code 0
 ```
-### 第 0010 题
+### 第 0011 题
 * 12/19
 * 在一段长文本中寻找某个字符串第一次出现的位置
 * KMP算法
-### 第 0011 题
+### 第 0012 题
 * 12/21
 * 用 Python 写一个爬图片的程序 [全是小姐姐 -_-!](https://pixabay.com/zh/photos/girl/?image_type=photo)
 * ![errar](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0012.png)
 * ![errar](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0012-1.jpg)
+### 第 0013 题
+* 12/22
+* 纯文本文件 0013.txt为学生信息, 里面的内容（包括花括号）如下所示
+```txt
+{
+        "1":["张三",150,120,100],
+	"2":["李四",90,99,95],
+	"3":["王五",60,66,68]
+}
+```
+请将上述内容写到 0013.xlsx 文件中
+* 关键：xlsx文件的读写
+* ![errar](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0013.jpg)
