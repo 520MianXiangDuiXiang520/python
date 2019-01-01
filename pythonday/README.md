@@ -103,5 +103,5 @@ d说c胡说！
 ```python
 import antigravity
 ```
-:heart:
+:heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart:
 ![errar](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0015.jpg)
