@@ -96,3 +96,12 @@ b说c是小偷；
 c说小偷肯定是d；
 d说c胡说！
 其中有三个人说的是实话，一个人说的是假话，请编程推断谁是小偷
+### 第 0015 题
+* 2019/1/1
+* 今天元旦，开心一下，2019，去爱，去努力
+* 在python中运行以下代码
+```python
+import antigravity
+```
+:heart:
+![errar](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0015.jpg)
