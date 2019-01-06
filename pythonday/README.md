@@ -74,7 +74,6 @@ Process finished with exit code 0
 * 12/21
 * 用 Python 写一个爬图片的程序 [全是小姐姐 -_-!](https://pixabay.com/zh/photos/girl/?image_type=photo)
 * ![errar](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0012.png)
-* ![errar](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0012-1.jpg)
 ### 第 0013 题
 * 12/22
 * 纯文本文件 0013.txt为学生信息, 里面的内容（包括花括号）如下所示
@@ -105,3 +104,7 @@ import antigravity
 ```
 :heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart:
 ![errar](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0015.jpg)
+### 第 0016 题
+* 2019/1/6
+* 老式挂钟会在整点的报时，响铃的次数和时间相等。我们设计一个在电脑上运行的报时器。
+* 功能描述：运行后，在每一个整点长响一声，半个整点短响两声。实现睡眠模式，晚上十二点到早上六点不响铃。
