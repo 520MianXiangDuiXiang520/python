@@ -1,6 +1,5 @@
 import turtle
 import time
-import os
 #绘制一段数码管
 def drawline(draw):
     turtle.penup()
@@ -9,10 +8,10 @@ def drawline(draw):
         turtle.pendown()
     else:
         turtle.penup()
-    turtle.fd(40)#前进40
+    turtle.fd(40)   # 前进40
     turtle.penup()
     turtle.fd(8)
-    turtle.right(90)#向右旋转90
+    turtle.right(90)   # 向右旋转90
 
 
 def drawDigit(digit):
@@ -30,6 +29,7 @@ def drawDigit(digit):
     turtle.left(180)
     turtle.penup()
     turtle.fd(20)
+
 def drawDate(date):
     for i in date:
         if i=='N':
@@ -54,16 +54,19 @@ def drawDate(date):
 def main():
     while 1==1:
         turtle.setup(800, 700, 200, 200)
-        turtle.penup()
-        turtle.goto(-350,100)
-        turtle.pensize(5)
-        drawDate(time.strftime('%YN%mY%dR',time.localtime()))
-        turtle.goto(-300, -100)
-        drawDate(time.strftime('%H:%M:%S', time.localtime()))
-        turtle.hideturtle()
-        #turtle.done()
-        time.sleep(5)
-        turtle.reset()
+        if(time.strftime('%S', time.localtime())=='57'):
+            turtle.setup(800, 700, 200, 200)
+            turtle.speed(20)
+            turtle.penup()
+            turtle.goto(-350, 100)
+            turtle.pensize(5)
+            drawDate(time.strftime('%YN%mY%dR', time.localtime()))
+            turtle.goto(-300, -100)
+            drawDate(time.strftime('%H:%M:%S', time.localtime()))
+            turtle.hideturtle()
+            # turtle.done()
+            time.sleep(57)
+            turtle.reset()
 main()
 
 
