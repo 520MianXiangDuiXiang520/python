@@ -112,3 +112,7 @@ import antigravity
 * 2019/1/7
 * 再 0016 的基础上增加显示时间的功能，使它更像一块表
 ![errar](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0017.jpg)
+### 第 0018 题
+* 2019/1/7
+* 好多人只是假装在努力，为了让自己真实，做一个计时器，记录下自己每天学习的真实时间
+![errar](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0018.jpg)
