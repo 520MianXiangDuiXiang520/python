@@ -116,3 +116,10 @@ import antigravity
 * 2019/1/7
 * 好多人只是假装在努力，为了让自己真实，做一个计时器，记录下自己每天学习的真实时间
 ![errar](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/0018.jpg)
+### 第 0019 题
+* 2019/1/16
+* 今天发现一个好玩的库，itchat 用来实现微信接口，我有一个大胆的想法...
+![404](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/001901.jpg)
+![404](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/001902.jpg)
+![404](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/001903.jpg)
+![404](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/001904.jpg)
