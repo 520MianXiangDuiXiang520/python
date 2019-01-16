@@ -84,7 +84,6 @@ def list():
 
 
 if __name__ == '__main__':
-    #hotReload = True
     itchat.auto_login(hotReload = True)
     time.sleep(5)
     # get_info()
