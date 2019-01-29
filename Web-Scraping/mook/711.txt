@@ -112,3 +112,233 @@ http://www.cssmoban.com/  网页模板
 https://www.ichunqiu.com/competition  i 春秋 ctf时间表 
 http://www.shiyanbar.com/ctf/time  实验吧CTF TIME 
 https://ctftime.org/  CTF TIME 
+https://blog.csdn.net/tiannishi/article/details/79691073  od的基本快捷键 
+https://www.jianshu.com/p/11fd3f4fdc16  针对汽车的电池消耗攻击和拒绝车身控制攻击 
+https://blog.csdn.net/tdl17703438791  编程练习 
+https://blog.csdn.net/qq_20464153/article/details/79682274  Windows安装Linux子系统--安装GUI界面 
+http://120.79.238.27/index.php/2018/03/24/ubuntu_shadowsocks/  Ubuntu借助shadowsocks科学上网 
+https://blog.csdn.net/t_i_m_e/article/details/79782246  xssshell平台使用以及Burpsuit 抓包辅助查过滤 
+https://blog.csdn.net/tdl17703438791   DOS 命令之ping  
+https://blog.csdn.net/qq_20464153/article/details/79777823  python实现图片转字符画 
+https://thegonedays.github.io/  sqlmap基础教程 
+https://thegonedays.github.io/  实验吧ctf 
+https://blog.csdn.net/qq_40452317/article/details/79856314  Linux下的电子取证 
+http://123.206.74.236/index.php/2018/04/01/odoo1/  odoo开发笔记 
+https://blog.csdn.net/weixin_40658927/article/details/79857055  bugku ctf 
+https://blog.csdn.net/h1012946585/article/details/79851884  web——ctf (登陆一下好吗??) 
+https://blog.csdn.net/t_i_m_e/article/details/79954499  Ratproxy漏洞半自动注入工具简单使用 
+https://blog.csdn.net/tdl17703438791/article/details/79952891  登录注册页面1 
+https://blog.csdn.net/auuuuuuuu/article/details/79702520  php 浅谈相对路径与绝对路径 
+http://123.206.74.236/index.php/2018/04/05/odoo2/  odoo开发笔记（二） 
+https://www.jianshu.com/p/710bf97b0271  汇编笔记（2） 
+https://blog.csdn.net/t_i_m_e/article/details/80044864  flash漏洞(CVE-2018-4878)复现翻车全程 
+https://blog.csdn.net/weixin_40658927/article/details/80041923  ctf 
+https://blog.csdn.net/tututuo/article/details/80033868  sqlmap安装及实例应用 
+https://blog.csdn.net/Auuuuuuuu/article/details/80026166  选择排序和冒泡排序 
+https://blog.csdn.net/h1012946585/article/details/80024731  python 代码分享，杂记 
+http://www.cssmoban.com/  网页模板 
+https://www.ichunqiu.com/competition  i 春秋 ctf时间表 
+http://www.shiyanbar.com/ctf/time  实验吧CTF TIME 
+https://ctftime.org/  CTF TIME 
+https://blog.csdn.net/qq_41934929/article/details/80146408  单片机 
+https://thegonedays.github.io/2018/04/29/python密码学编程学习笔记/  python密码学编程学习笔记 
+https://thegonedays.github.io/2018/04/29/MSF实现永恒之蓝攻击/  MSF实现永恒之蓝攻击 
+https://blog.csdn.net/qq_20464153/article/details/80144243  Django学习笔记-模型层 
+https://blog.csdn.net/tututuo/article/details/79866737  PHP基础学习（纯属记录个人学习） 
+https://blog.csdn.net/hxsheng1199/article/details/80219754  初学PHP 
+https://blog.csdn.net/tdl17703438791  文章阅读计数 
+https://mp.csdn.net/postedit/80196174  百度贴吧——签到 
+https://blog.csdn.net/qq_20464153/article/details/80214883  模型类-管理器 
+https://blog.csdn.net/tututuo/article/details/80165111  IDA基于win7安装 
+https://blog.csdn.net/qq_40452317/article/details/80301592  蓝鲸ctf writeup 本地登录 
+https://blog.csdn.net/qq_41934929/article/details/80278543  用Notepad++运行测试PHP文件 
+https://blog.csdn.net/tututuo/article/details/80276599  算法图解 
+https://blog.csdn.net/wangxinru1/article/details/80285571  php总结 
+https://blog.csdn.net/cried_cat/article/details/80283965  几道超级小白的webCTF题目 
+https://blog.csdn.net/qq_41934929/article/details/80386812  php站点配置 
+https://blog.csdn.net/W1517055683/article/details/80386280  学习web安全的一次笔记 
+https://blog.csdn.net/tututuo/article/details/80384374  python 正则表达式学习1 
+https://blog.csdn.net/qq_40452317/article/details/80383593  Python 学习 简单爬虫 
+https://blog.csdn.net/weixin_40658927/article/details/80383010  ISCC 2018 web 4题 
+http://www.cssmoban.com/  网页模板 
+https://www.ichunqiu.com/competition  i 春秋 ctf时间表 
+http://www.shiyanbar.com/ctf/time  实验吧CTF TIME 
+https://ctftime.org/  CTF TIME 
+http://120.77.214.251/?p=76  南邮 综合题 
+https://blog.csdn.net/weixin_40658927/article/details/80643222  登陆界面 
+https://blog.csdn.net/wangxinru1/article/details/82562063  代码审计 
+https://mp.weixin.qq.com/s?__biz=MzUyMzQzOTMwMQ==&amp;mid=2247485568&amp;idx=1&amp;sn=00b72466a9dd275147eb3ead0d446875&amp;chksm=fa3dd52acd4a5c3ce3275b7ca585712a26b36df9f8237a79b499f9128e6179b9741ec6c81b51&amp;token=127203168&amp;lang=zh_CN#rd  Android简单逆向题目分析 
+https://blog.csdn.net/W1517055683/article/details/82527922  SQL注入 
+https://blog.csdn.net/h1012946585/article/details/82500018  dvwa下xss练手实践 
+https://blog.csdn.net/qq_40452317/article/details/80583933  数据结构 线性表 递归实现汉诺塔 
+https://blog.csdn.net/h1012946585/article/details/82721732  数据结构顺序表顺序栈记录 
+http://120.79.238.27/index.php/2018/09/16/who-are-you/  2017强网杯一道贼简单的文件上传题 
+https://mp.csdn.net/postedit/82782849  vmware虚拟机三种网络模式详解 
+http://blog.tjjazz.cn/2018/09/19/%C2%80%E3%80%8A%E7%99%BD%E5%B8%BD%E5%AD%90%E8%AE%B2web%E5%AE%89%E5%85%A8%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E4%BA%8C/  &lt;白帽子讲web安全&gt;XSS篇 
+https://blog.csdn.net/Auuuuuuuu/article/details/82733279  windows server 2003 asp环境搭建 
+http://www.cssmoban.com/  网页模板 
+https://www.ichunqiu.com/competition  i 春秋 ctf时间表 
+http://www.shiyanbar.com/ctf/time  实验吧CTF TIME 
+https://ctftime.org/  CTF TIME 
+http://120.79.238.27/index.php/2018/09/29/python_requests_2/  python之requests的简单使用(二) 
+https://blog.csdn.net/W1517055683/article/details/82763942  kali linux 手动操作配置ip 
+http://120.79.238.27/index.php/2018/09/25/python_requests/  python之requests的简单使用(一) 
+https://blog.csdn.net/qq_41934929/article/details/82556365  虚拟机中使用asp搭建简易网站 
+https://blog.csdn.net/Auuuuuuuu/article/details/83144847  复现老漏洞 
+https://blog.csdn.net/Tututuo/article/details/83386720  Android 环境搭建 
+https://blog.csdn.net/qq_36440163/article/details/83060160  【Tensorflow】在Android上的使用 
+https://blog.csdn.net/wangxinru1/article/details/83473233  kmp匹配 
+https://mp.weixin.qq.com/s?__biz=MzUyMzQzOTMwMQ==&amp;mid=2247485749&amp;idx=1&amp;sn=09764c134b386febb55076b1a6e471f6&amp;chksm=fa3dd49fcd4a5d89bc24a194b420cada8c95c1d603efadfb6970888c74dd5eab3a620948e711&amp;token=286716046&amp;lang=zh_CN#rd  cookie和session 
+https://r0co.github.io/2018/10/25/python%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0%E4%B9%8BBeautifulSoup%E7%9A%84%E4%BD%BF%E7%94%A8%EF%BC%881%EF%BC%89/#more  python爬虫学习之BeautifulSoup的使用（1） 
+https://blog.csdn.net/wangxinru1/article/details/83716901  git基础应用 
+https://r0co.github.io/2018/10/30/OSI%E5%8F%82%E8%80%83%E6%A8%A1%E5%9E%8B/#more  OSI参考模型概述 
+https://mp.weixin.qq.com/s?__biz=MzUyMzQzOTMwMQ==&amp;mid=2247485863&amp;idx=1&amp;sn=ae57f0da97d45f0b37b4eda8a1b3d31f&amp;chksm=fa3dd40dcd4a5d1b65e6b4ff1ba629ff9b20e5aa0165d6b75da73bd888ac7a09c237a94ce0fa&amp;token=96425300&amp;lang=zh_CN#rd  xss专题（一） 
+https://blog.csdn.net/Auuuuuuuu/article/details/83690362  phpMyadmin新姿势getshell 
+https://blog.csdn.net/qq_41934929/article/details/83687731  使用php实现一个简单的计算器 
+https://blog.csdn.net/Tututuo/article/details/83931010  Java的第一个程序——helloworld 
+https://blog.csdn.net/qq_41193533/article/details/83957686  二叉树三序遍历及叶子结点个数及中序遍历下最后一个结点 
+https://blog.csdn.net/zjbyough/article/details/83662252  c语言写一个钟表动画 
+https://blog.csdn.net/apppwp/article/details/83933204  PHP基础 
+http://yige1999.xyz/index.php/archives/62/  利用 KALI 进行本地局域网嗅探 
+http://www.cssmoban.com/  网页模板 
+https://www.ichunqiu.com/competition  i 春秋 ctf时间表 
+http://www.shiyanbar.com/ctf/time  实验吧CTF TIME 
+https://ctftime.org/  CTF TIME 
+https://r0co.github.io/2018/11/17/PHP%E7%AE%80%E5%8C%96%E4%BB%A3%E7%A0%81%E7%A5%9E%E5%99%A8-autoload/  PHP简化代码神器(一):__autoload() 
+https://blog.csdn.net/h1012946585/article/details/84191680  文件上传漏洞靶场练习 
+https://blog.csdn.net/zjbyough/article/details/84183067  PHP 正则表达式 
+https://blog.csdn.net/weixin_40658927/article/details/84169909  爬虫bs4库 
+https://r0co.github.io/2018/11/12/IP基本原理概述/  IP基本原理概述 
+https://blog.csdn.net/qq_40573659/article/details/84438372  git命令操作集 
+https://blog.csdn.net/Auuuuuuuu/article/details/84403234  百度贴吧爬虫 
+https://blog.csdn.net/Auuuuuuuu/article/details/84310613  本地hash远程攻击 
+https://yytgravity.github.io/2018/11/22/dvwa-sql%E6%B3%A8%E5%85%A5/  sqlctf题 
+https://blog.csdn.net/Nicht_sehen/article/details/84306286  数据结构 ——— 图的遍历（C语言实现） 
+https://blog.csdn.net/qq_43610974/article/details/84677655  丢人指南 
+https://blog.csdn.net/HJY_LXL/article/details/84677754  杭电1005 
+https://blog.csdn.net/weixin_42698762/article/details/84677368  pyqt5俄罗斯方块 
+https://blog.csdn.net/qq_41193533/article/details/84666540  php中的cookie，session和文件上传 
+https://mp.csdn.net/mdeditor/84899334#  turtle库与time库结合应用——七段数码管绘制 
+https://blog.csdn.net/ilyjdfe/article/details/80137027  线性回归 
+https://r0co.github.io/2018/12/06/安恒11月月赛—Crypto—简单的密码学（2）/  CBC翻转字节攻击 
+https://blog.csdn.net/qq_40155500/article/details/82858996  CNN识别验证码 
+https://blog.csdn.net/weixin_42034782/article/details/84886055  分类和标注词汇 
+http://www.cssmoban.com/  网页模板 
+https://www.ichunqiu.com/competition  i 春秋 ctf时间表 
+http://www.shiyanbar.com/ctf/time  实验吧CTF TIME 
+https://ctftime.org/  CTF TIME 
+https://blog.csdn.net/tiannishi/article/details/79691073  od的基本快捷键 
+https://www.jianshu.com/p/11fd3f4fdc16  针对汽车的电池消耗攻击和拒绝车身控制攻击 
+https://blog.csdn.net/tdl17703438791  编程练习 
+https://blog.csdn.net/qq_20464153/article/details/79682274  Windows安装Linux子系统--安装GUI界面 
+http://120.79.238.27/index.php/2018/03/24/ubuntu_shadowsocks/  Ubuntu借助shadowsocks科学上网 
+https://blog.csdn.net/t_i_m_e/article/details/79782246  xssshell平台使用以及Burpsuit 抓包辅助查过滤 
+https://blog.csdn.net/tdl17703438791   DOS 命令之ping  
+https://blog.csdn.net/qq_20464153/article/details/79777823  python实现图片转字符画 
+https://thegonedays.github.io/  sqlmap基础教程 
+https://thegonedays.github.io/  实验吧ctf 
+https://blog.csdn.net/qq_40452317/article/details/79856314  Linux下的电子取证 
+http://123.206.74.236/index.php/2018/04/01/odoo1/  odoo开发笔记 
+https://blog.csdn.net/weixin_40658927/article/details/79857055  bugku ctf 
+https://blog.csdn.net/h1012946585/article/details/79851884  web——ctf (登陆一下好吗??) 
+https://blog.csdn.net/t_i_m_e/article/details/79954499  Ratproxy漏洞半自动注入工具简单使用 
+https://blog.csdn.net/tdl17703438791/article/details/79952891  登录注册页面1 
+https://blog.csdn.net/auuuuuuuu/article/details/79702520  php 浅谈相对路径与绝对路径 
+http://123.206.74.236/index.php/2018/04/05/odoo2/  odoo开发笔记（二） 
+https://www.jianshu.com/p/710bf97b0271  汇编笔记（2） 
+https://blog.csdn.net/t_i_m_e/article/details/80044864  flash漏洞(CVE-2018-4878)复现翻车全程 
+https://blog.csdn.net/weixin_40658927/article/details/80041923  ctf 
+https://blog.csdn.net/tututuo/article/details/80033868  sqlmap安装及实例应用 
+https://blog.csdn.net/Auuuuuuuu/article/details/80026166  选择排序和冒泡排序 
+https://blog.csdn.net/h1012946585/article/details/80024731  python 代码分享，杂记 
+http://www.cssmoban.com/  网页模板 
+https://www.ichunqiu.com/competition  i 春秋 ctf时间表 
+http://www.shiyanbar.com/ctf/time  实验吧CTF TIME 
+https://ctftime.org/  CTF TIME 
+https://blog.csdn.net/qq_41934929/article/details/80146408  单片机 
+https://thegonedays.github.io/2018/04/29/python密码学编程学习笔记/  python密码学编程学习笔记 
+https://thegonedays.github.io/2018/04/29/MSF实现永恒之蓝攻击/  MSF实现永恒之蓝攻击 
+https://blog.csdn.net/qq_20464153/article/details/80144243  Django学习笔记-模型层 
+https://blog.csdn.net/tututuo/article/details/79866737  PHP基础学习（纯属记录个人学习） 
+https://blog.csdn.net/hxsheng1199/article/details/80219754  初学PHP 
+https://blog.csdn.net/tdl17703438791  文章阅读计数 
+https://mp.csdn.net/postedit/80196174  百度贴吧——签到 
+https://blog.csdn.net/qq_20464153/article/details/80214883  模型类-管理器 
+https://blog.csdn.net/tututuo/article/details/80165111  IDA基于win7安装 
+https://blog.csdn.net/qq_40452317/article/details/80301592  蓝鲸ctf writeup 本地登录 
+https://blog.csdn.net/qq_41934929/article/details/80278543  用Notepad++运行测试PHP文件 
+https://blog.csdn.net/tututuo/article/details/80276599  算法图解 
+https://blog.csdn.net/wangxinru1/article/details/80285571  php总结 
+https://blog.csdn.net/cried_cat/article/details/80283965  几道超级小白的webCTF题目 
+https://blog.csdn.net/qq_41934929/article/details/80386812  php站点配置 
+https://blog.csdn.net/W1517055683/article/details/80386280  学习web安全的一次笔记 
+https://blog.csdn.net/tututuo/article/details/80384374  python 正则表达式学习1 
+https://blog.csdn.net/qq_40452317/article/details/80383593  Python 学习 简单爬虫 
+https://blog.csdn.net/weixin_40658927/article/details/80383010  ISCC 2018 web 4题 
+http://www.cssmoban.com/  网页模板 
+https://www.ichunqiu.com/competition  i 春秋 ctf时间表 
+http://www.shiyanbar.com/ctf/time  实验吧CTF TIME 
+https://ctftime.org/  CTF TIME 
+http://120.77.214.251/?p=76  南邮 综合题 
+https://blog.csdn.net/weixin_40658927/article/details/80643222  登陆界面 
+https://blog.csdn.net/wangxinru1/article/details/82562063  代码审计 
+https://mp.weixin.qq.com/s?__biz=MzUyMzQzOTMwMQ==&amp;mid=2247485568&amp;idx=1&amp;sn=00b72466a9dd275147eb3ead0d446875&amp;chksm=fa3dd52acd4a5c3ce3275b7ca585712a26b36df9f8237a79b499f9128e6179b9741ec6c81b51&amp;token=127203168&amp;lang=zh_CN#rd  Android简单逆向题目分析 
+https://blog.csdn.net/W1517055683/article/details/82527922  SQL注入 
+https://blog.csdn.net/h1012946585/article/details/82500018  dvwa下xss练手实践 
+https://blog.csdn.net/qq_40452317/article/details/80583933  数据结构 线性表 递归实现汉诺塔 
+https://blog.csdn.net/h1012946585/article/details/82721732  数据结构顺序表顺序栈记录 
+http://120.79.238.27/index.php/2018/09/16/who-are-you/  2017强网杯一道贼简单的文件上传题 
+https://mp.csdn.net/postedit/82782849  vmware虚拟机三种网络模式详解 
+http://blog.tjjazz.cn/2018/09/19/%C2%80%E3%80%8A%E7%99%BD%E5%B8%BD%E5%AD%90%E8%AE%B2web%E5%AE%89%E5%85%A8%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E4%BA%8C/  &lt;白帽子讲web安全&gt;XSS篇 
+https://blog.csdn.net/Auuuuuuuu/article/details/82733279  windows server 2003 asp环境搭建 
+http://www.cssmoban.com/  网页模板 
+https://www.ichunqiu.com/competition  i 春秋 ctf时间表 
+http://www.shiyanbar.com/ctf/time  实验吧CTF TIME 
+https://ctftime.org/  CTF TIME 
+http://120.79.238.27/index.php/2018/09/29/python_requests_2/  python之requests的简单使用(二) 
+https://blog.csdn.net/W1517055683/article/details/82763942  kali linux 手动操作配置ip 
+http://120.79.238.27/index.php/2018/09/25/python_requests/  python之requests的简单使用(一) 
+https://blog.csdn.net/qq_41934929/article/details/82556365  虚拟机中使用asp搭建简易网站 
+https://blog.csdn.net/Auuuuuuuu/article/details/83144847  复现老漏洞 
+https://blog.csdn.net/Tututuo/article/details/83386720  Android 环境搭建 
+https://blog.csdn.net/qq_36440163/article/details/83060160  【Tensorflow】在Android上的使用 
+https://blog.csdn.net/wangxinru1/article/details/83473233  kmp匹配 
+https://mp.weixin.qq.com/s?__biz=MzUyMzQzOTMwMQ==&amp;mid=2247485749&amp;idx=1&amp;sn=09764c134b386febb55076b1a6e471f6&amp;chksm=fa3dd49fcd4a5d89bc24a194b420cada8c95c1d603efadfb6970888c74dd5eab3a620948e711&amp;token=286716046&amp;lang=zh_CN#rd  cookie和session 
+https://r0co.github.io/2018/10/25/python%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0%E4%B9%8BBeautifulSoup%E7%9A%84%E4%BD%BF%E7%94%A8%EF%BC%881%EF%BC%89/#more  python爬虫学习之BeautifulSoup的使用（1） 
+https://blog.csdn.net/wangxinru1/article/details/83716901  git基础应用 
+https://r0co.github.io/2018/10/30/OSI%E5%8F%82%E8%80%83%E6%A8%A1%E5%9E%8B/#more  OSI参考模型概述 
+https://mp.weixin.qq.com/s?__biz=MzUyMzQzOTMwMQ==&amp;mid=2247485863&amp;idx=1&amp;sn=ae57f0da97d45f0b37b4eda8a1b3d31f&amp;chksm=fa3dd40dcd4a5d1b65e6b4ff1ba629ff9b20e5aa0165d6b75da73bd888ac7a09c237a94ce0fa&amp;token=96425300&amp;lang=zh_CN#rd  xss专题（一） 
+https://blog.csdn.net/Auuuuuuuu/article/details/83690362  phpMyadmin新姿势getshell 
+https://blog.csdn.net/qq_41934929/article/details/83687731  使用php实现一个简单的计算器 
+https://blog.csdn.net/Tututuo/article/details/83931010  Java的第一个程序——helloworld 
+https://blog.csdn.net/qq_41193533/article/details/83957686  二叉树三序遍历及叶子结点个数及中序遍历下最后一个结点 
+https://blog.csdn.net/zjbyough/article/details/83662252  c语言写一个钟表动画 
+https://blog.csdn.net/apppwp/article/details/83933204  PHP基础 
+http://yige1999.xyz/index.php/archives/62/  利用 KALI 进行本地局域网嗅探 
+http://www.cssmoban.com/  网页模板 
+https://www.ichunqiu.com/competition  i 春秋 ctf时间表 
+http://www.shiyanbar.com/ctf/time  实验吧CTF TIME 
+https://ctftime.org/  CTF TIME 
+https://r0co.github.io/2018/11/17/PHP%E7%AE%80%E5%8C%96%E4%BB%A3%E7%A0%81%E7%A5%9E%E5%99%A8-autoload/  PHP简化代码神器(一):__autoload() 
+https://blog.csdn.net/h1012946585/article/details/84191680  文件上传漏洞靶场练习 
+https://blog.csdn.net/zjbyough/article/details/84183067  PHP 正则表达式 
+https://blog.csdn.net/weixin_40658927/article/details/84169909  爬虫bs4库 
+https://r0co.github.io/2018/11/12/IP基本原理概述/  IP基本原理概述 
+https://blog.csdn.net/qq_40573659/article/details/84438372  git命令操作集 
+https://blog.csdn.net/Auuuuuuuu/article/details/84403234  百度贴吧爬虫 
+https://blog.csdn.net/Auuuuuuuu/article/details/84310613  本地hash远程攻击 
+https://yytgravity.github.io/2018/11/22/dvwa-sql%E6%B3%A8%E5%85%A5/  sqlctf题 
+https://blog.csdn.net/Nicht_sehen/article/details/84306286  数据结构 ——— 图的遍历（C语言实现） 
+https://blog.csdn.net/qq_43610974/article/details/84677655  丢人指南 
+https://blog.csdn.net/HJY_LXL/article/details/84677754  杭电1005 
+https://blog.csdn.net/weixin_42698762/article/details/84677368  pyqt5俄罗斯方块 
+https://blog.csdn.net/qq_41193533/article/details/84666540  php中的cookie，session和文件上传 
+https://mp.csdn.net/mdeditor/84899334#  turtle库与time库结合应用——七段数码管绘制 
+https://blog.csdn.net/ilyjdfe/article/details/80137027  线性回归 
+https://r0co.github.io/2018/12/06/安恒11月月赛—Crypto—简单的密码学（2）/  CBC翻转字节攻击 
+https://blog.csdn.net/qq_40155500/article/details/82858996  CNN识别验证码 
+https://blog.csdn.net/weixin_42034782/article/details/84886055  分类和标注词汇 
+http://www.cssmoban.com/  网页模板 
+https://www.ichunqiu.com/competition  i 春秋 ctf时间表 
+http://www.shiyanbar.com/ctf/time  实验吧CTF TIME 
+https://ctftime.org/  CTF TIME 
