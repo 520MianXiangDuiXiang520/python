@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83221ac7-1b62-4795-a4f5-189e9ca5f01b" name="Default Changelist" comment="" />
+    <list default="true" id="83221ac7-1b62-4795-a4f5-189e9ca5f01b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/一半.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/下雨了.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/丑八怪.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/为了遇见你.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/伏笔.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/传说.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/你还要我怎样.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/像风一样.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/其实.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/几个你.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/刚刚好.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/初学者.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/别.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/动物世界.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/哑巴.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/天份.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/小孩.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/怪咖.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/意外.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/我们爱过就好.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/我好像在哪见过你.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/我害怕.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/我想起你了.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/我知道你都知道.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/我终于成了别人的女人.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/摩天大楼.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/方圆几里.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/暧昧.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/最好.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/有没有.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/未完成的歌.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/来日方长.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/深深爱过你.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/渡.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/演员.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/潮流季.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/火星人来过.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/爱我的人.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/狐狸.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/等我回家.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/绅士.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/肆无忌惮.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/背过手.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/花儿和少年.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/认真的雪.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/那是你离开了北京的生活.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/重返十七岁.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/骆驼.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/music/高尚.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-note/Note-python/面向对象/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-note/Note-python/面向对象/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-note/Note-python/面向对象/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-note/Note-python/面向对象/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-note/Note-python/面向对象/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-note/Note-python/面向对象/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-note/other-base/ooo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,26 +69,33 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/pythonday$WCSR_5.coverage" NAME="WCSR-5 Coverage Results" MODIFIED="1544861163718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web-Scraping/mook" />
     <SUITE FILE_PATH="coverage/pythonday$0015.coverage" NAME="0015 Coverage Results" MODIFIED="1546348234328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
-    <SUITE FILE_PATH="coverage/pythonday$0002.coverage" NAME="0002 Coverage Results" MODIFIED="1544758437732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$0009.coverage" NAME="0009 Coverage Results" MODIFIED="1545118421013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
-    <SUITE FILE_PATH="coverage/pythonday$0019.coverage" NAME="0019 Coverage Results" MODIFIED="1547624130117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
-    <SUITE FILE_PATH="coverage/pythonday$0016.coverage" NAME="0016 Coverage Results" MODIFIED="1546828730117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$0003.coverage" NAME="0003 Coverage Results" MODIFIED="1544790805624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$0006.coverage" NAME="0006 Coverage Results" MODIFIED="1544944580715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$pppp.coverage" NAME="pppp Coverage Results" MODIFIED="1544955847822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/earth" />
-    <SUITE FILE_PATH="coverage/pythonday$qiduanshumaguan.coverage" NAME="qiduanshumaguan Coverage Results" MODIFIED="1546766570949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/turtle" />
-    <SUITE FILE_PATH="coverage/pythonday$0004.coverage" NAME="0004 Coverage Results" MODIFIED="1544798020086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
-    <SUITE FILE_PATH="coverage/pythonday$0007.coverage" NAME="0007 Coverage Results" MODIFIED="1546758341218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
-    <SUITE FILE_PATH="coverage/pythonday$0001.coverage" NAME="0001 Coverage Results" MODIFIED="1544675293295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$0017.coverage" NAME="0017 Coverage Results" MODIFIED="1546829320351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
+    <SUITE FILE_PATH="coverage/pythonday$04.coverage" NAME="04 Coverage Results" MODIFIED="1551356074154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/Note-python/面向对象" />
     <SUITE FILE_PATH="coverage/pythonday$douban.coverage" NAME="douban Coverage Results" MODIFIED="1544851236150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web-Scraping" />
-    <SUITE FILE_PATH="coverage/pythonday$test.coverage" NAME="test Coverage Results" MODIFIED="1547623326574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
-    <SUITE FILE_PATH="coverage/pythonday$0013.coverage" NAME="0013 Coverage Results" MODIFIED="1545487946139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$0000.coverage" NAME="0000 Coverage Results" MODIFIED="1544672048969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
+    <SUITE FILE_PATH="coverage/pythonday$ooo.coverage" NAME="ooo Coverage Results" MODIFIED="1550033590556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/other-base" />
     <SUITE FILE_PATH="coverage/pythonday$0008.coverage" NAME="0008 Coverage Results" MODIFIED="1545111579137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$0005.coverage" NAME="0005 Coverage Results" MODIFIED="1544862189199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$zifuchuan.coverage" NAME="zifuchuan Coverage Results" MODIFIED="1547718730798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python" />
     <SUITE FILE_PATH="coverage/pythonday$0014.coverage" NAME="0014 Coverage Results" MODIFIED="1546345187577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
+    <SUITE FILE_PATH="coverage/pythonday$01.coverage" NAME="01 Coverage Results" MODIFIED="1551353027731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/Note-python/面向对象" />
+    <SUITE FILE_PATH="coverage/pythonday$0002.coverage" NAME="0002 Coverage Results" MODIFIED="1544758437732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
+    <SUITE FILE_PATH="coverage/pythonday$06.coverage" NAME="06 Coverage Results" MODIFIED="1551360299201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/Note-python/面向对象" />
+    <SUITE FILE_PATH="coverage/pythonday$0019.coverage" NAME="0019 Coverage Results" MODIFIED="1547624130117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
+    <SUITE FILE_PATH="coverage/pythonday$0016.coverage" NAME="0016 Coverage Results" MODIFIED="1546828730117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
+    <SUITE FILE_PATH="coverage/pythonday$03.coverage" NAME="03 Coverage Results" MODIFIED="1551355280047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/Note-python/面向对象" />
+    <SUITE FILE_PATH="coverage/pythonday$qiduanshumaguan.coverage" NAME="qiduanshumaguan Coverage Results" MODIFIED="1546766570949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/turtle" />
+    <SUITE FILE_PATH="coverage/pythonday$0004.coverage" NAME="0004 Coverage Results" MODIFIED="1544798020086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
+    <SUITE FILE_PATH="coverage/pythonday$0007.coverage" NAME="0007 Coverage Results" MODIFIED="1546758341218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
+    <SUITE FILE_PATH="coverage/pythonday$0001.coverage" NAME="0001 Coverage Results" MODIFIED="1544675293295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
+    <SUITE FILE_PATH="coverage/pythonday$test.coverage" NAME="test Coverage Results" MODIFIED="1547623326574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
+    <SUITE FILE_PATH="coverage/pythonday$0013.coverage" NAME="0013 Coverage Results" MODIFIED="1545487946139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
+    <SUITE FILE_PATH="coverage/pythonday$02.coverage" NAME="02 Coverage Results" MODIFIED="1551354939473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/Note-python/面向对象" />
+    <SUITE FILE_PATH="coverage/pythonday$05.coverage" NAME="05 Coverage Results" MODIFIED="1551359934105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/Note-python/面向对象" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -49,37 +114,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonday/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="504">
-                <caret line="128" column="73" selection-start-line="128" selection-start-column="73" selection-end-line="128" selection-end-column="73" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonday/0020.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="232">
-                <caret line="61" selection-start-line="61" selection-end-line="61" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/python-note/other-base/ooo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+              <folding>
+                <element signature="e#46#55#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonday/0006.py">
+        <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-              <folding>
-                <element signature="e#46#55#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="390">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/05.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/06.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="26" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/03.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/04.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -163,12 +258,19 @@
         <option value="$PROJECT_DIR$/python-note/again_study_python/zifuchuan.py" />
         <option value="$PROJECT_DIR$/pythonday/README.md" />
         <option value="$PROJECT_DIR$/pythonday/0020.md" />
+        <option value="$PROJECT_DIR$/python-note/other-base/ooo.py" />
+        <option value="$PROJECT_DIR$/python-note/Note-python/面向对象/01.py" />
+        <option value="$PROJECT_DIR$/python-note/Note-python/面向对象/03.py" />
+        <option value="$PROJECT_DIR$/python-note/Note-python/面向对象/04.py" />
+        <option value="$PROJECT_DIR$/python-note/Note-python/面向对象/02.py" />
+        <option value="$PROJECT_DIR$/python-note/Note-python/面向对象/05.py" />
+        <option value="$PROJECT_DIR$/python-note/Note-python/面向对象/06.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -190,12 +292,20 @@
             <path>
               <item name="pythonday" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonday" type="462c0819:PsiDirectoryNode" />
-              <item name="imc" type="462c0819:PsiDirectoryNode" />
+              <item name="python-note" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pythonday" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonday" type="462c0819:PsiDirectoryNode" />
+              <item name="python-note" type="462c0819:PsiDirectoryNode" />
+              <item name="Note-python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonday" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonday" type="462c0819:PsiDirectoryNode" />
+              <item name="python-note" type="462c0819:PsiDirectoryNode" />
+              <item name="Note-python" type="462c0819:PsiDirectoryNode" />
+              <item name="面向对象" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,8 +340,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.zifuchuan">
-    <configuration name="0016" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.06">
+    <configuration name="02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonday" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,12 +349,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonday" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-note/Note-python/面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonday/0016.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-note/Note-python/面向对象/02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +363,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0017" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonday" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,12 +371,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonday" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-note/Note-python/面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonday/0017.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-note/Note-python/面向对象/03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +385,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0019" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonday" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,12 +393,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonday" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-note/Note-python/面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonday/0019.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-note/Note-python/面向对象/04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,7 +407,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonday" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,12 +415,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonday" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-note/Note-python/面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonday/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-note/Note-python/面向对象/05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,7 +429,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zifuchuan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="06" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonday" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,12 +437,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-note/again_study_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-note/Note-python/面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-note/again_study_python/zifuchuan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-note/Note-python/面向对象/06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,11 +453,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zifuchuan" />
-        <item itemvalue="Python.0019" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.0017" />
-        <item itemvalue="Python.0016" />
+        <item itemvalue="Python.06" />
+        <item itemvalue="Python.05" />
+        <item itemvalue="Python.04" />
+        <item itemvalue="Python.03" />
+        <item itemvalue="Python.02" />
       </list>
     </recent_temporary>
   </component>
@@ -393,6 +503,10 @@
       <workItem from="1547716201842" duration="2764000" />
       <workItem from="1547803407647" duration="53000" />
       <workItem from="1547971190996" duration="2012000" />
+      <workItem from="1550033092196" duration="1097000" />
+      <workItem from="1551096524016" duration="224000" />
+      <workItem from="1551170374873" duration="33000" />
+      <workItem from="1551352367148" duration="7769000" />
     </task>
     <task id="LOCAL-00001" summary="每天一道python题 第0000道">
       <created>1544623848834</created>
@@ -636,17 +750,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141194000" />
+    <option name="totallyTimeSpent" value="150317000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.70039946" visible="true" weight="0.15441176" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.29960054" side_tool="true" visible="true" weight="0.15441176" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69430894" visible="true" weight="0.15374331" />
+      <window_info id="Structure" order="1" sideWeight="0.30569106" side_tool="true" visible="true" weight="0.15374331" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3243968" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18169583" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18109187" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -700,50 +815,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/mook/WCSR-2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/mook/WCSR-8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-354" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/mook/WCSR-7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/mook/WCSR-6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/mook/WCSR-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="e#6#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/mook/WCSR-4.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/mook/WCSR-3.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imc/ii.py" />
     <entry file="file://$PROJECT_DIR$/pythonday/0009.jpeg" />
     <entry file="file://$PROJECT_DIR$/pythonday/0005.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -999,10 +1070,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/imc/ToDoList.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonday/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3840">
+            <caret line="128" column="73" selection-start-line="128" selection-start-column="73" selection-end-line="128" selection-end-column="73" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonday/0020.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1830">
+            <caret line="61" selection-start-line="61" selection-end-line="61" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pythonday/0006.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        <state relative-caret-position="360">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
           <folding>
             <element signature="e#46#55#0" expanded="true" />
           </folding>
@@ -1029,26 +1123,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imc/ToDoList.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonday/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="504">
-            <caret line="128" column="73" selection-start-line="128" selection-start-column="73" selection-end-line="128" selection-end-column="73" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/python-note/other-base/ooo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding>
+            <element signature="e#46#55#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonday/0020.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="232">
-            <caret line="61" selection-start-line="61" selection-end-line="61" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="26" selection-end-column="7" />
         </state>
       </provider>
     </entry>
