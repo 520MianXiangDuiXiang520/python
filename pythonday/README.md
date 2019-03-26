@@ -128,7 +128,7 @@ import antigravity
 ![404](https://github.com/520MianXiangDuiXiang520/python/blob/master/imc/ToDoList.gif)
 [代码位置](https://github.com/520MianXiangDuiXiang520/Django/tree/db_todolist)
 ### 第 0021 题
- 纯文本文件 0021.txt, 里面的内容（包括方括号）
+ 纯文本文件 0021.txt, 里面的内容（包括方括号），将其导入到xls文件中
  ```text
 [
 	[1, 82, 65535], 
