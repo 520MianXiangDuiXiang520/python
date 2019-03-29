@@ -2,12 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83221ac7-1b62-4795-a4f5-189e9ca5f01b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonday/0022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonday/0022.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/外星人入侵/game_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/外星人入侵/images/alien.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/外星人入侵/images/ship.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/外星人入侵/setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/外星人入侵/ship.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonday/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pythonday/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/blog/Templates/blog/dia1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/blog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/blog/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/blog/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/blog/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/外星人入侵/alien.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/blog/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/blog/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/blog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/blog/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/外星人入侵/bullet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/myblog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/外星人入侵/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/myblog/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/myblog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diango/myblog/myblog/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/build/pppp/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/build/pppp/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/build/pppp/PKG-00.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/build/pppp/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/build/pppp/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/build/pppp/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/build/pppp/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/build/pppp/pppp.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/build/pppp/warn-pppp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/build/pppp/xref-pppp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/dist/earth_down/2018_12_16/18-34-45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/dist/earth_down/2018_12_16/18-39-47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/dist/earth_down/2018_12_16/18-44-49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/dist/earth_down/2018_12_16/18-49-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/dist/earth_down/2018_12_16/18-54-51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/dist/earth_down/2018_12_16/18-59-52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/dist/earth_down/2018_12_16/19-04-54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/dist/earth_down/2018_12_16/19-09-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/dist/earth_down/2018_12_16/19-14-58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/dist/earth_down/2018_12_16/19-20-00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/dist/earth_down/2018_12_16/19-25-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/dist/earth_down/2018_12_16/19-30-08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/dist/earth_down/2018_12_16/19-35-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/dist/earth_down/2018_12_16/19-40-14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/earth.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth/pppp.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imc/read" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-note/other-base/PI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-note/other-base/base-list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-note/other-base/honai.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-note/other-base/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-note/other-base/ooo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-note/other-base/python-base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-note/other-base/ss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonchallenge/00.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonchallenge/01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonchallenge/images/calc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonchallenge/images/map.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pythonday/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonday/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonday/text2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonday/text2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +78,7 @@
     <SUITE FILE_PATH="coverage/pythonday$0006.coverage" NAME="0006 Coverage Results" MODIFIED="1544944580715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$07.coverage" NAME="07 Coverage Results" MODIFIED="1553595619800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python" />
     <SUITE FILE_PATH="coverage/pythonday$pppp.coverage" NAME="pppp Coverage Results" MODIFIED="1544955847822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/earth" />
+    <SUITE FILE_PATH="coverage/pythonday$main.coverage" NAME="main Coverage Results" MODIFIED="1553869117368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame/外星人入侵" />
     <SUITE FILE_PATH="coverage/pythonday$0017.coverage" NAME="0017 Coverage Results" MODIFIED="1546829320351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$04.coverage" NAME="04 Coverage Results" MODIFIED="1553346447074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python/oop" />
     <SUITE FILE_PATH="coverage/pythonday$text2.coverage" NAME="text2 Coverage Results" MODIFIED="1553779470678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
@@ -49,7 +104,7 @@
     <SUITE FILE_PATH="coverage/pythonday$0004.coverage" NAME="0004 Coverage Results" MODIFIED="1544798020086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$0007.coverage" NAME="0007 Coverage Results" MODIFIED="1546758341218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$0001.coverage" NAME="0001 Coverage Results" MODIFIED="1544675293295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
-    <SUITE FILE_PATH="coverage/pythonday$test.coverage" NAME="test Coverage Results" MODIFIED="1553770586644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
+    <SUITE FILE_PATH="coverage/pythonday$test.coverage" NAME="test Coverage Results" MODIFIED="1553856496245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$0013.coverage" NAME="0013 Coverage Results" MODIFIED="1545487946139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$08.coverage" NAME="08 Coverage Results" MODIFIED="1553601491162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python" />
     <SUITE FILE_PATH="coverage/pythonday$02.coverage" NAME="02 Coverage Results" MODIFIED="1553340482701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python/oop" />
@@ -72,85 +127,75 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonday/README.md">
+        <entry file="file://$PROJECT_DIR$/pygame/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-219">
-                <caret line="141" selection-start-line="141" selection-end-line="141" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonday/test.py">
+        <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonday/0011.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="20" selection-start-line="20" selection-end-line="32" selection-end-column="17" />
+            <state relative-caret-position="300">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonday/0022.py">
+        <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/game_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+            <state relative-caret-position="300">
+              <caret line="51" column="59" selection-start-line="51" selection-start-column="59" selection-end-line="51" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#377#648#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-483542633/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="4776" column="8" selection-start-line="4776" selection-start-column="8" selection-end-line="4776" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-note/Note-python/python-字符串">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="903">
-              <caret line="75" column="24" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonday/text2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonday/0021.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonday/0021.txt">
+        <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/ship.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/alien.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/setting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/bullet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -176,13 +221,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pythonday/0008.py" />
-        <option value="$PROJECT_DIR$/pythonday/0009.py" />
-        <option value="$PROJECT_DIR$/pythonday/0013" />
-        <option value="$PROJECT_DIR$/pythonday/0013.py" />
-        <option value="$PROJECT_DIR$/pythonday/0014.py" />
-        <option value="$PROJECT_DIR$/pythonday/0015.py" />
-        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/mp3play/windows.py" />
         <option value="$PROJECT_DIR$/python-note/turtle/qiduanshumaguan.py" />
         <option value="$PROJECT_DIR$/pythonday/0017.py" />
         <option value="$PROJECT_DIR$/pythonday/0016.py" />
@@ -222,16 +260,23 @@
         <option value="$PROJECT_DIR$/python-note/again_study_python/08.py" />
         <option value="$PROJECT_DIR$/pythonday/0021.txt" />
         <option value="$PROJECT_DIR$/pythonday/0021.py" />
-        <option value="$PROJECT_DIR$/pythonday/test.py" />
         <option value="$PROJECT_DIR$/pythonday/text2.py" />
         <option value="$PROJECT_DIR$/pythonday/0022.txt" />
         <option value="$PROJECT_DIR$/pythonday/README.md" />
         <option value="$PROJECT_DIR$/pythonday/0022.py" />
+        <option value="$PROJECT_DIR$/pythonday/test.py" />
+        <option value="$PROJECT_DIR$/pygame/外星人入侵/check_events.py" />
+        <option value="$PROJECT_DIR$/pygame/外星人入侵/ship.py" />
+        <option value="$PROJECT_DIR$/pygame/外星人入侵/bullet.py" />
+        <option value="$PROJECT_DIR$/pygame/外星人入侵/alien.py" />
+        <option value="$PROJECT_DIR$/pygame/外星人入侵/main.py" />
+        <option value="$PROJECT_DIR$/pygame/外星人入侵/setting.py" />
+        <option value="$PROJECT_DIR$/pygame/外星人入侵/game_function.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="-9" />
     <option name="y" value="20" />
     <option name="width" value="980" />
     <option name="height" value="1090" />
@@ -254,35 +299,20 @@
             <path>
               <item name="pythonday" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonday" type="462c0819:PsiDirectoryNode" />
-              <item name="python-note" type="462c0819:PsiDirectoryNode" />
+              <item name="pygame" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pythonday" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonday" type="462c0819:PsiDirectoryNode" />
-              <item name="python-note" type="462c0819:PsiDirectoryNode" />
-              <item name="again_study_python" type="462c0819:PsiDirectoryNode" />
+              <item name="pygame" type="462c0819:PsiDirectoryNode" />
+              <item name="外星人入侵" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pythonday" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonday" type="462c0819:PsiDirectoryNode" />
-              <item name="python-note" type="462c0819:PsiDirectoryNode" />
-              <item name="Note-python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonday" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonday" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonday" type="462c0819:PsiDirectoryNode" />
-              <item name="Web-Scraping" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonday" type="462c0819:PsiDirectoryNode" />
-              <item name="Web-Scraping" type="462c0819:PsiDirectoryNode" />
-              <item name="music_163" type="462c0819:PsiDirectoryNode" />
+              <item name="pygame" type="462c0819:PsiDirectoryNode" />
+              <item name="外星人入侵" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -297,14 +327,16 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PYthon\pythonday\pygame\外星人入侵\images" />
+      <recent name="E:\PYthon\pythonday\pythonday" />
+      <recent name="E:\PYthon\pythonday\pythonday\font" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PYthon\pythonday\pygame\外星人入侵\images" />
       <recent name="E:\PYthon\pythonday\pythonchallenge\images" />
       <recent name="E:\PYthon\pythonday\imc" />
       <recent name="E:\PYthon\pythonday\pythonday\0020" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\PYthon\pythonday\pythonday" />
-      <recent name="E:\PYthon\pythonday\pythonday\font" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -319,7 +351,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.0022">
+  <component name="RunManager" selected="Python.main">
     <configuration name="0021" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonday" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -386,7 +418,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonday" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -394,12 +426,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-note/again_study_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame/外星人入侵" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-note/again_study_python/08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame/外星人入侵/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -454,11 +486,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.0022" />
         <item itemvalue="Python.text2" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.0021" />
-        <item itemvalue="Python.08" />
       </list>
     </recent_temporary>
   </component>
@@ -522,7 +554,8 @@
       <workItem from="1553334751134" duration="9826000" />
       <workItem from="1553511607521" duration="17492000" />
       <workItem from="1553695352487" duration="1319000" />
-      <workItem from="1553769917844" duration="10751000" />
+      <workItem from="1553769917844" duration="10835000" />
+      <workItem from="1553827651902" duration="16793000" />
     </task>
     <task id="LOCAL-00001" summary="每天一道python题 第0000道">
       <created>1544623848834</created>
@@ -818,22 +851,28 @@
       <option name="project" value="LOCAL" />
       <updated>1553605772699</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="每日一道 python 题 第 0022 题">
+      <created>1553782869553</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1553782869553</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226467000" />
+    <option name="totallyTimeSpent" value="243344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.67657995" visible="true" weight="0.18382353" />
-      <window_info id="Structure" order="1" sideWeight="0.32342008" side_tool="true" visible="true" weight="0.18382353" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6747212" visible="true" weight="0.18582888" />
+      <window_info id="Structure" order="1" sideWeight="0.32527882" side_tool="true" visible="true" weight="0.18582888" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" weight="0.3288948" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3243968" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32356858" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28362185" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -845,6 +884,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32756326" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -903,7 +943,8 @@
     <MESSAGE value="sys" />
     <MESSAGE value="oop" />
     <MESSAGE value="每日一道 python 题 第 0021 题" />
-    <option name="LAST_COMMIT_MESSAGE" value="每日一道 python 题 第 0021 题" />
+    <MESSAGE value="每日一道 python 题 第 0022 题" />
+    <option name="LAST_COMMIT_MESSAGE" value="每日一道 python 题 第 0022 题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -917,130 +958,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-note/Note-python/面向对象/04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonday/0019.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="85" column="26" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-note/again_study_python/zifuchuan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-note/Note-python/5-python列表">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-929">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonchallenge/00.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="18" column="203" selection-start-line="18" selection-start-column="203" selection-end-line="18" selection-end-column="203" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonchallenge/01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/weibo/weibo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-note/Note-python/8-python时间日期">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/mook/WCSR-711.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonday/0005.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-note/Note-python/8-python时间日期.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="58" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-483542633/sys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="591" column="6" lean-forward="true" selection-start-line="591" selection-start-column="6" selection-end-line="591" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-note/again_study_python/02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python-note/other-base/ss.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -1199,10 +1116,27 @@
     <entry file="file://$PROJECT_DIR$/python-note/Note-python/11-python异常处理">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonday/0021.py">
+    <entry file="file://$PROJECT_DIR$/pythonday/0022.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonday/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4230">
+            <caret line="141" selection-start-line="141" selection-end-line="141" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonday/0011.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" selection-start-line="20" selection-end-line="32" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1210,6 +1144,67 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/json/encoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="253" column="6" selection-start-line="253" selection-start-column="6" selection-end-line="253" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-483542633/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="4776" column="8" selection-start-line="4776" selection-start-column="8" selection-end-line="4776" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="100" column="11" lean-forward="true" selection-start-line="100" selection-start-column="11" selection-end-line="100" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imc/read">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonchallenge/images/calc.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonday/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-note/other-base/note">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-note/other-base/base-list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web-Scraping/mook/711.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonday/0021.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -1222,53 +1217,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python-note/Note-python/python-字符串">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
+        <state relative-caret-position="663">
           <caret line="75" column="24" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonday/0022.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonday/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonday/0011.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="20" selection-start-line="20" selection-end-line="32" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonday/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-219">
-            <caret line="141" selection-start-line="141" selection-end-line="141" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-483542633/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="4776" column="8" selection-start-line="4776" selection-start-column="8" selection-end-line="4776" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonday/0022.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
+        <state relative-caret-position="854">
           <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-483542633/pygame/display.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="114" column="4" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/images/ship.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/bullet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/alien.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/ship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/game_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="51" column="59" selection-start-line="51" selection-start-column="59" selection-end-line="51" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#377#648#0" />
+          </folding>
         </state>
       </provider>
     </entry>
