@@ -9,10 +9,15 @@ class Settings():
         self.bg_color=(230,230,230)
         self.ship_speed_factor=1
         self.bullet_color=(60,60,60)
-        self.bullet_speed_factor=1
+        self.bullet_speed_factor=3
         self.bullet_width=3
         self.bullet_heigh=15
         self.bullet_size=(self.bullet_width,self.bullet_heigh)
         self.bullet_maxcount=3
         self.alien_speed=1
         self.alien_count=5
+        self.ship_limit=5
+        self.copy_life=self.ship_limit
+
+
+

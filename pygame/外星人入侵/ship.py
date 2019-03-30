@@ -14,6 +14,8 @@ class Ship():
         self.moving_down = False
         self.speed=setting.ship_speed_factor
         self.fire_type=0
+        self.arms_big = False
+        self.arms_gig_starttime=0.0
 
     def blitme(self):
         self.screen.blit(self.imag,self.rect)
@@ -27,9 +29,15 @@ class Ship():
             self.rect.centery -= self.speed
         elif self.moving_down and self.rect.bottom<self.screen_rect.bottom:
             self.rect.centery += self.speed
+        elif self.rect.left>self.screen_rect.left and self.rect.right < self.screen_rect.right:
+            self.fire_type=0
         elif self.rect.left==self.screen_rect.left:
             # 向右射击
             self.fire_type=1
         elif self.rect.right==self.screen_rect.right:
             # 向左射击
             self.fire_type = 2
+
+    def center_ship(self):
+        self.rect.centerx = self.screen_rect.centerx
+        self.rect.bottom = self.screen_rect.bottom
