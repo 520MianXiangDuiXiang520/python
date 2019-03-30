@@ -32,6 +32,8 @@ class PI:
             long=(i-99000)/20
             print(repr(id)+" : "+'@'*math.ceil(long)+"  ("+repr(i)+"次)")
             id += 1
+    def jiou(self,num):
+        print(PI.pi[int(num)])
 
     def info(self):
         print(len(PI.pi))
@@ -41,11 +43,12 @@ class PI:
 if __name__ == '__main__':
     p=PI('0022.txt')
 
-    try:
-        birth = input("按20190203的格式输入生日：\n")
-        p.birth_in(birth)
-    except ValueError:
-        print("没有找到")
-
-    p.statistics()
-
+    # try:
+    #     birth = input("按20190203的格式输入生日：\n")
+    #     p.birth_in(birth)
+    # except ValueError:
+    #     print("没有找到")
+    #
+    # p.statistics()
+    num=input("find n ?")
+    p.jiou(num)
