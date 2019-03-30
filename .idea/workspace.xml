@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83221ac7-1b62-4795-a4f5-189e9ca5f01b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pygame/外星人入侵/button.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame/外星人入侵/game_score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame/外星人入侵/game_stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame/外星人入侵/max_score.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame/外星人入侵/alien.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/外星人入侵/alien.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pygame/外星人入侵/game_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/外星人入侵/game_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame/外星人入侵/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/外星人入侵/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame/外星人入侵/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/外星人入侵/setting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame/外星人入侵/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/外星人入侵/ship.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,11 +83,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/game_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+            <state relative-caret-position="279">
+              <caret line="120" column="6" selection-start-line="120" selection-start-column="6" selection-end-line="120" selection-end-column="6" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <element signature="e#377#648#0" />
               </folding>
             </state>
           </provider>
@@ -521,7 +512,7 @@
       <workItem from="1553511607521" duration="17492000" />
       <workItem from="1553695352487" duration="1319000" />
       <workItem from="1553769917844" duration="10835000" />
-      <workItem from="1553827651902" duration="43767000" />
+      <workItem from="1553827651902" duration="45466000" />
     </task>
     <task id="LOCAL-00001" summary="每天一道python题 第0000道">
       <created>1544623848834</created>
@@ -831,11 +822,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553869988974</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="外星人入侵">
+      <created>1553950429771</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1553950429771</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270318000" />
+    <option name="totallyTimeSpent" value="272017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -917,7 +915,8 @@
     <MESSAGE value="oop" />
     <MESSAGE value="每日一道 python 题 第 0021 题" />
     <MESSAGE value="每日一道 python 题 第 0022 题" />
-    <option name="LAST_COMMIT_MESSAGE" value="每日一道 python 题 第 0022 题" />
+    <MESSAGE value="外星人入侵" />
+    <option name="LAST_COMMIT_MESSAGE" value="外星人入侵" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1266,11 +1265,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pygame/外星人入侵/game_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+        <state relative-caret-position="279">
+          <caret line="120" column="6" selection-start-line="120" selection-start-column="6" selection-end-line="120" selection-end-column="6" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#377#648#0" />
           </folding>
         </state>
       </provider>
