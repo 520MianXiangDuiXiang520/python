@@ -4,7 +4,7 @@ import sys
 
 # 服务器地址与端口号
 HOST='127.0.0.1'
-PORT=57890
+PORT=12345
 s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 try:
     # 尝试连接远程服务器
