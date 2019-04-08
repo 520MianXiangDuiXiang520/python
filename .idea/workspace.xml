@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83221ac7-1b62-4795-a4f5-189e9ca5f01b" name="Default Changelist" comment="TCP UDP编程">
-      <change afterPath="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/sockMiddle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-note/again_study_python/测试代码/haxi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-note/again_study_python/测试代码/线程与进程/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-note/again_study_python/测试代码/线程与进程/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-note/again_study_python/测试代码/线程与进程/04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-note/again_study_python/测试代码/线程与进程/05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-note/again_study_python/测试代码/线程与进程/06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-note/again_study_python/测试代码/线程与进程/xiancheng.py" afterDir="false" />
+    <list default="true" id="83221ac7-1b62-4795-a4f5-189e9ca5f01b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/client.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-note/again_study_python/测试代码/TCP/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-note/again_study_python/测试代码/TCP/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/sockMiddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/sockMiddle.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +24,7 @@
     <SUITE FILE_PATH="coverage/pythonday$main.coverage" NAME="main Coverage Results" MODIFIED="1553950265011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame/外星人入侵" />
     <SUITE FILE_PATH="coverage/pythonday$04.coverage" NAME="04 Coverage Results" MODIFIED="1554642029522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python/测试代码/线程与进程" />
     <SUITE FILE_PATH="coverage/pythonday$bosszhiping.coverage" NAME="bosszhiping Coverage Results" MODIFIED="1554536117624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python/测试代码" />
-    <SUITE FILE_PATH="coverage/pythonday$server.coverage" NAME="server Coverage Results" MODIFIED="1554647348194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT" />
+    <SUITE FILE_PATH="coverage/pythonday$server.coverage" NAME="server Coverage Results" MODIFIED="1554727183708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT" />
     <SUITE FILE_PATH="coverage/pythonday$01__1_.coverage" NAME="01 (1) Coverage Results" MODIFIED="1554039845889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/序列" />
     <SUITE FILE_PATH="coverage/pythonday$0000.coverage" NAME="0000 Coverage Results" MODIFIED="1544672048969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$01.coverage" NAME="01 Coverage Results" MODIFIED="1553337152578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python/oop" />
@@ -63,6 +56,7 @@
     <SUITE FILE_PATH="coverage/pythonday$client.coverage" NAME="client Coverage Results" MODIFIED="1554638231236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python/测试代码/TCP" />
     <SUITE FILE_PATH="coverage/pythonday$0022.coverage" NAME="0022 Coverage Results" MODIFIED="1553953303308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$0016.coverage" NAME="0016 Coverage Results" MODIFIED="1546828730117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
+    <SUITE FILE_PATH="coverage/pythonday$sockMiddle.coverage" NAME="sockMiddle Coverage Results" MODIFIED="1554731279471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT" />
     <SUITE FILE_PATH="coverage/pythonday$03.coverage" NAME="03 Coverage Results" MODIFIED="1554641984919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python/测试代码/线程与进程" />
     <SUITE FILE_PATH="coverage/pythonday$qiduanshumaguan.coverage" NAME="qiduanshumaguan Coverage Results" MODIFIED="1546766570949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/turtle" />
     <SUITE FILE_PATH="coverage/pythonday$0004.coverage" NAME="0004 Coverage Results" MODIFIED="1544798020086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
@@ -96,11 +90,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="270">
+              <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -108,34 +102,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/TCP/server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/TCP/client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-              <folding>
-                <element signature="e#6#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/sockMiddle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="132">
+              <caret line="41" selection-start-line="41" selection-end-line="49" selection-end-column="13" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding>
+                <element signature="e#6#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -166,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python-note/again_study_python/oop/06.py" />
         <option value="$PROJECT_DIR$/python-note/again_study_python/07.py" />
         <option value="$PROJECT_DIR$/python-note/again_study_python/08.py" />
         <option value="$PROJECT_DIR$/pythonday/0021.txt" />
@@ -214,16 +198,18 @@
         <option value="$PROJECT_DIR$/python-note/again_study_python/测试代码/haxi.py" />
         <option value="$PROJECT_DIR$/python-note/again_study_python/测试代码/线程与进程/02.py" />
         <option value="$PROJECT_DIR$/python-note/again_study_python/测试代码/线程与进程/04.py" />
-        <option value="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/sockMiddle.py" />
         <option value="$PROJECT_DIR$/python-note/again_study_python/测试代码/TCP/client.py" />
+        <option value="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/client.py" />
         <option value="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/server.py" />
+        <option value="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/sockMiddle.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1088" />
+    <option name="x" value="37" />
+    <option name="y" value="32" />
+    <option name="width" value="980" />
+    <option name="height" value="1085" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -317,7 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.server">
+  <component name="RunManager" selected="Python.sockMiddle">
     <configuration name="01" type="PythonConfigurationType" factoryName="Python">
       <module name="pythonday" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -450,7 +436,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="xiancheng" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sockMiddle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonday" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -458,12 +444,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-note/again_study_python/测试代码" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\PYthon\pythonday\python-note\again_study_python\测试代码\线程与进程\xiancheng.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/sockMiddle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -474,11 +460,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sockMiddle" />
         <item itemvalue="Python.server" />
         <item itemvalue="Python.05" />
         <item itemvalue="Python.04" />
         <item itemvalue="Python.02" />
-        <item itemvalue="Python.xiancheng" />
       </list>
     </recent_temporary>
   </component>
@@ -546,7 +532,7 @@
       <workItem from="1553827651902" duration="47890000" />
       <workItem from="1554023918333" duration="8396000" />
       <workItem from="1554206215053" duration="34692000" />
-      <workItem from="1554553160254" duration="33465000" />
+      <workItem from="1554553160254" duration="46096000" />
     </task>
     <task id="LOCAL-00001" summary="每天一道python题 第0000道">
       <created>1544623848834</created>
@@ -884,11 +870,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554558285435</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="多线程">
+      <created>1554647530897</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1554647530897</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350994000" />
+    <option name="totallyTimeSpent" value="363625000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -900,15 +893,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="870" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.67286247" visible="true" weight="0.3658872" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.67286247" visible="true" weight="0.15574867" />
       <window_info id="Structure" order="1" sideWeight="0.32713756" side_tool="true" weight="0.18983957" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32356858" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37012112" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23169108" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -956,7 +949,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="每天一道python题 第0001道" />
     <MESSAGE value="每天一道python题 第0002道" />
     <MESSAGE value="每天一道python题 第0003道" />
     <MESSAGE value="每天一道python题 第0004道" />
@@ -981,7 +973,8 @@
     <MESSAGE value="外星人入侵" />
     <MESSAGE value="我怎么会告诉你6589位是奇数还是偶数，那是你的梦啊" />
     <MESSAGE value="TCP UDP编程" />
-    <option name="LAST_COMMIT_MESSAGE" value="TCP UDP编程" />
+    <MESSAGE value="多线程" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -995,7 +988,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python-note/again_study_python/垃圾文件/04.py" />
     <entry file="file://$PROJECT_DIR$/python-note/again_study_python/垃圾文件/05.py" />
     <entry file="file://$PROJECT_DIR$/python-note/again_study_python/垃圾文件/08.py" />
     <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/zifuchuan.py">
@@ -1318,32 +1310,32 @@
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="543" column="44" selection-start-line="543" selection-start-column="44" selection-end-line="543" selection-end-column="44" />
+        <state relative-caret-position="183">
+          <caret line="543" column="8" selection-start-line="543" selection-start-column="8" selection-end-line="543" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/sockMiddle.py">
+    <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/TCP/client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="180">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#6#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/TCP/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        <state relative-caret-position="210">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/TCP/client.py">
+    <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        <state relative-caret-position="210">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding>
             <element signature="e#6#19#0" expanded="true" />
           </folding>
@@ -1352,8 +1344,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="270">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/NAT/sockMiddle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="41" selection-start-line="41" selection-end-line="49" selection-end-column="13" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
