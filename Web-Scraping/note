@@ -1,8 +1,0 @@
-从零开始学爬虫
-1，安装第三方库
-    pycharm：file->settings->project python->+->install package
-2.爬虫三大库：
-    1.requests
-    2.bs4:
-            soup.find_all('div',class='')
-            find() 返回的是一串，没格式

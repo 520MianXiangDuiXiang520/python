@@ -3,5 +3,6 @@
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$/Web-Scraping/everynews.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Web-Scraping/mook/711.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/other/公众号.txt" charset="GBK" />
   </component>
 </project>

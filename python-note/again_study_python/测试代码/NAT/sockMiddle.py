@@ -32,13 +32,7 @@ def main():
     sockScr.bind(('',12345))
     sockScr.listen(20)
     print('代理已启动')
-    # list_t=[]
-    # for i in range(5):
-    #     t=threading.Thread(target=accept_client,args=(sockScr,))
-    #     list_t.append(t)
-    # for t in list_t:
-    #     t.start()
-    #     t.join()
+
     t1=threading.Thread(target=accept_client,args=(sockScr,))
     t2 = threading.Thread(target=accept_client, args=(sockScr,))
     t3 = threading.Thread(target=accept_client, args=(sockScr,))
