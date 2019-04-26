@@ -28,9 +28,11 @@ class GetTopList:
 
     def puturl(self):
         self.topdict=dict(zip(self._nameList[:24],self._linkList[:24]))
+        print(self.topdict)
         return self.topdict
 
 
 
 if __name__ == '__main__':
     s=GetTopList()
+    s.puturl()
