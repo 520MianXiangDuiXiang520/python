@@ -2,239 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83221ac7-1b62-4795-a4f5-189e9ca5f01b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/again/Headers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/again/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/again/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/again/TopListSongID.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/again/Toplist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/again/download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/again/note.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/again/test_ToListSongID.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web-Scraping/music_163/again/test_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-note/again_study_python/测试代码/else/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/一半.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/一夜长大.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/一家一.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/一棵会开花的树.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/一腔诗意喂了狗.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/一路两个人.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/一路逆风.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/一颗会开花的树.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/一首情歌.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/七八年.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/下雨了.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/不为失恋说抱歉.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/不想睡.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/丑八怪.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/丝路.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/为了遇见你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/二十岁的某一天.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/于是.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/伏笔.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/会过去的.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/传说.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/你不是真正的快乐.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/你会不会.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/你把我灌醉.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/你还在忧愁什么呢.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/你还要我怎样.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/你还记得我吗.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/俗人言.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/倒数.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/借我.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/偶阵雨.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/像风一样.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/光年之外.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/其实.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/再也看不见海.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/再见.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/写不完的温柔.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/农夫渔夫.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/几个你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/出山.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/分手快乐.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/刚刚好.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/初学者.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/别.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/制作人.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/动物世界.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/勇气.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/北方爷们.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/十号线的忧伤.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/十月一场.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/单行的轨道.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/南来北往.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/即便最了然.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/去问猫耳朵.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/又失恋了.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/另一个童话.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/只不过是.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/只能抱着你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/只道寻常.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/可以的话.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/可惜不是你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/后会无期.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/听不到.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/哑巴.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/唱不了一首欢乐的歌.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/喜欢你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/回忆的沙漏.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/在爱里等你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/在路上.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/夏季八谈.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/多远都要在一起.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/夜夜夜夜.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/大地之歌.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/天份.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/她.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/如果写不出好的和弦就该在洒满阳光的钢琴前一起吃布丁.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/如果有一天.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/妄为.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/妈妈要我出嫁.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/妖魔山游记.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/孤单北半球.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/宁夏.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/小孩.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/小手拉大手.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/小毛驴.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/小爱情.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/小相思.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/少年你在哪里.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/岩石里的花.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/崎途.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/废墟之上.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/彩虹.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/心之焰.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/心空空.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/怪咖.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/恋着多喜欢.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/情人.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/情歌没有告诉你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/想都没想过.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/意外.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/慢慢来比较快.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我一定会爱上你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我从崖边跌落.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我们总是在寻找.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我们爱过就好.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我喜欢.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我在十点差三分的时候开始想你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我好像在哪见过你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我害怕.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我就知道那是爱.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我想带你去美丽的春天.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我想起你了.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我抬头一看满街都是单身的狗.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我的秘密.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我知道你都知道.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我终于成了别人的女人.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/我说我当不了县长.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/手心的蔷薇.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/接受.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/摩天大楼.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/摸摸它.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/攀登.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/新屋.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/新的心跳.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/方圆几里.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/无条件为你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/无终.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/明明很爱你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/昨夜梦.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/是否.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/暖暖.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/暧昧.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/最好.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/最想环游的世界.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/最美不过是朝晖.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/有心人.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/有没有.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/未完成的歌.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/杀死那朵花.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/来日方长.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/来自天堂的魔鬼.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/桃花诺.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/死了都要.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/死了都要爱.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/毒苹果.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/求得.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/没有人像你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/泡沫.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/洛干的吻.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/活该.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/海盗船长.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/深夜鱼塘.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/深深爱过你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/渡.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/漂向北方.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/漂洋过海来看你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/演员.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/潮流季.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/火星人来过.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/烟熏妆.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/燕尾蝶.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/爱久见人心.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/爱你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/爱你不是两三天.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/爱我的人.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/狐狸.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/猫都瞧不起我.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/理想三旬.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/画.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/瘦瘦的.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/盗将行.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/盲点.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/睡公主.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/睡皇后.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/瞬.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/碌碌.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/离家最近的路.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/穿越火线.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/突然之间.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/第三者.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/等我回家.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/红蔷薇白玫瑰.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/纯真.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/纸短情长.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/绅士.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/给未来的你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/给还没有遇见的你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/美丽人生.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/群星.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/肆无忌惮.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/背过手.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/舍离书.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/花儿和少年.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/茶酒伴.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/荏苒冬春去.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/荒岛.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/蜕变.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/西安.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/认真的雪.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/让爱转动整个宇宙.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/还好有你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/还想听你的故事.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/还是好朋友.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/这一天我什么都不想干.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/这个大叔不太冷.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/远在北方孤独的鬼.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/远辰落身旁.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/遥不可及的你.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/那一夜.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/那是你离开了北京的生活.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/重返十七岁.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/锁.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/错过不错.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/长岛.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/雀斑少女.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/顺平侯.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/飞行记.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/骆驼.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/高尚.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/黑夜虽长.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/music/龙卷风.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web-Scraping/music_163/again/Toplist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web-Scraping/music_163/again/Toplist.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -277,16 +45,16 @@
     <SUITE FILE_PATH="coverage/pythonday$SQLite.coverage" NAME="SQLite Coverage Results" MODIFIED="1554538733113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python/测试代码" />
     <SUITE FILE_PATH="coverage/pythonday$05.coverage" NAME="05 Coverage Results" MODIFIED="1555333806036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python/测试代码/线程与进程/多进程" />
     <SUITE FILE_PATH="coverage/pythonday$711.coverage" NAME="711 Coverage Results" MODIFIED="1554371773585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python/测试代码" />
-    <SUITE FILE_PATH="coverage/pythonday$Toplist.coverage" NAME="Toplist Coverage Results" MODIFIED="1556100862507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web-Scraping/music_163/again" />
+    <SUITE FILE_PATH="coverage/pythonday$Toplist.coverage" NAME="Toplist Coverage Results" MODIFIED="1556280622393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web-Scraping/music_163/again" />
     <SUITE FILE_PATH="coverage/pythonday$xiancheng.coverage" NAME="xiancheng Coverage Results" MODIFIED="1554638651236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/again_study_python/测试代码" />
     <SUITE FILE_PATH="coverage/pythonday$test_main.coverage" NAME="test_main Coverage Results" MODIFIED="1556102699603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web-Scraping/music_163/again" />
     <SUITE FILE_PATH="coverage/pythonday$test_ToListSongID.coverage" NAME="test_ToListSongID Coverage Results" MODIFIED="1556093340910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web-Scraping/music_163/again" />
     <SUITE FILE_PATH="coverage/pythonday$pppp.coverage" NAME="pppp Coverage Results" MODIFIED="1544955847822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/earth" />
-    <SUITE FILE_PATH="coverage/pythonday$Main.coverage" NAME="Main Coverage Results" MODIFIED="1556105610174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web-Scraping/music_163/again" />
+    <SUITE FILE_PATH="coverage/pythonday$Main.coverage" NAME="Main Coverage Results" MODIFIED="1556280671397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web-Scraping/music_163/again" />
     <SUITE FILE_PATH="coverage/pythonday$GetToplist.coverage" NAME="GetToplist Coverage Results" MODIFIED="1556068057595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web-Scraping/music_163/again" />
     <SUITE FILE_PATH="coverage/pythonday$0017.coverage" NAME="0017 Coverage Results" MODIFIED="1546829320351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
     <SUITE FILE_PATH="coverage/pythonday$text2.coverage" NAME="text2 Coverage Results" MODIFIED="1553779470678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonday" />
-    <SUITE FILE_PATH="coverage/pythonday$TopListSongID.coverage" NAME="TopListSongID Coverage Results" MODIFIED="1556102729917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web-Scraping/music_163/again" />
+    <SUITE FILE_PATH="coverage/pythonday$TopListSongID.coverage" NAME="TopListSongID Coverage Results" MODIFIED="1556280556897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web-Scraping/music_163/again" />
     <SUITE FILE_PATH="coverage/pythonday$douban.coverage" NAME="douban Coverage Results" MODIFIED="1544851236150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web-Scraping" />
     <SUITE FILE_PATH="coverage/pythonday$ss.coverage" NAME="ss Coverage Results" MODIFIED="1552054837152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-note/other-base" />
     <SUITE FILE_PATH="coverage/pythonday$everynews.coverage" NAME="everynews Coverage Results" MODIFIED="1553169496431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web-Scraping" />
@@ -341,59 +109,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/else/01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/first.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1530">
-              <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
-              <folding>
-                <element signature="e#20#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/Toplist.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/TopListSongID.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/download.py">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -401,20 +121,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-              <folding>
-                <element signature="e#1#31#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="492">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/test_main.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/Toplist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="227">
+              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -422,19 +139,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/Headers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-270">
+            <state relative-caret-position="450">
               <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/second.py">
+        <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/TopListSongID.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+            <state relative-caret-position="12">
+              <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
               <folding>
-                <element signature="e#20#35#0" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -512,20 +229,20 @@
         <option value="$PROJECT_DIR$/Web-Scraping/music_163/again/Getlist.py" />
         <option value="$PROJECT_DIR$/Web-Scraping/music_163/again/note.txt" />
         <option value="$PROJECT_DIR$/Web-Scraping/music_163/again/GetToplist.py" />
-        <option value="$PROJECT_DIR$/Web-Scraping/music_163/again/Toplist.py" />
         <option value="$PROJECT_DIR$/Web-Scraping/music_163/again/Headers.py" />
         <option value="$PROJECT_DIR$/Web-Scraping/music_163/again/test_ToListSongID.py" />
         <option value="$PROJECT_DIR$/Web-Scraping/music_163/again/TopListSongID.py" />
         <option value="$PROJECT_DIR$/Web-Scraping/music_163/again/test_main.py" />
         <option value="$PROJECT_DIR$/Web-Scraping/music_163/again/Main.py" />
         <option value="$PROJECT_DIR$/Web-Scraping/music_163/again/download.py" />
+        <option value="$PROJECT_DIR$/Web-Scraping/music_163/again/Toplist.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
-    <option name="height" value="1089" />
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -542,6 +259,24 @@
             <path>
               <item name="pythonday" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonday" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonday" type="462c0819:PsiDirectoryNode" />
+              <item name="Web-Scraping" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonday" type="462c0819:PsiDirectoryNode" />
+              <item name="Web-Scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="music_163" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonday" type="462c0819:PsiDirectoryNode" />
+              <item name="Web-Scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="music_163" type="462c0819:PsiDirectoryNode" />
+              <item name="again" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -669,6 +404,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Toplist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonday" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Web-Scraping/music_163/again" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Web-Scraping/music_163/again/Toplist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="download" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonday" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -713,35 +470,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonday" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Web-Scraping/music_163/again" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Web-Scraping/music_163/again/test_main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Main" />
+        <item itemvalue="Python.Toplist" />
+        <item itemvalue="Python.TopListSongID" />
         <item itemvalue="Python.download" />
         <item itemvalue="Python.second" />
-        <item itemvalue="Python.TopListSongID" />
-        <item itemvalue="Python.test_main" />
       </list>
     </recent_temporary>
   </component>
@@ -820,6 +555,7 @@
       <workItem from="1555893355137" duration="5055000" />
       <workItem from="1555936320765" duration="5002000" />
       <workItem from="1556010539387" duration="22600000" />
+      <workItem from="1556260945936" duration="719000" />
     </task>
     <task id="LOCAL-00006" summary="每天一道python题 第0002道">
       <created>1544759749295</created>
@@ -1168,7 +904,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="497878000" />
+    <option name="totallyTimeSpent" value="498597000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1182,12 +918,12 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.67286247" visible="true" weight="0.17713904" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.67286247" visible="true" weight="0.17914438" />
       <window_info id="Structure" order="1" sideWeight="0.32713756" side_tool="true" weight="0.18983957" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32356858" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3928096" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3928096" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1553,9 +1289,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/AllHeaders.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/AllHeaders.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
@@ -1570,23 +1304,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/first.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1530">
-          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
-          <folding>
-            <element signature="e#20#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/Headers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/test_ToListSongID.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
@@ -1597,10 +1314,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/Toplist.py">
+    <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/music/五个人.mp3" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/urllib3/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="-13" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/else/01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+          <folding>
+            <element signature="e#20#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -1614,22 +1354,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/TopListSongID.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/music/五个人.mp3">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/second.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
+        <state relative-caret-position="2190">
           <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
           <folding>
             <element signature="e#20#35#0" expanded="true" />
@@ -1639,33 +1366,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-          <folding>
-            <element signature="e#1#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="492">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/urllib3/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/download.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-note/again_study_python/测试代码/else/01.py">
+    <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/Headers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/TopListSongID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web-Scraping/music_163/again/Toplist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
         </state>
       </provider>
     </entry>
