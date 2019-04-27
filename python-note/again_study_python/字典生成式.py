@@ -7,7 +7,6 @@ if-modified-since: Sat, 27 Apr 2019 13:11:17 GMT
 referer: https://www.google.com/
 upgrade-insecure-requests: 1
 user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36'''
-
 print(type(header))
 header={i.split(":")[0]:i.split(":")[1] for i in header.split('\n')}
 print(header)
