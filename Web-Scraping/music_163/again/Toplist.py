@@ -1,7 +1,6 @@
 # -*- coding: UTF-8 -*-
 import requests
 from bs4 import BeautifulSoup
-from lxml.html import fromstring,tostring
 from Headers import Header
 
 class GetTopList:
@@ -28,7 +27,7 @@ class GetTopList:
 
     def puturl(self):
         self.topdict=dict(zip(self._nameList[:24],self._linkList[:24]))
-        print(self.topdict)
+        # print(self.topdict)
         return self.topdict
 
 

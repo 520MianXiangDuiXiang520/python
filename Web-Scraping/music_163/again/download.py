@@ -1,5 +1,4 @@
 import requests
-import urllib
 
 class DownLoad:
     def __init__(self,id,name,path):

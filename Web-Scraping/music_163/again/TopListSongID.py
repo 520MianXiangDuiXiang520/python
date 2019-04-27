@@ -2,11 +2,9 @@ from Headers import Header
 from Toplist import GetTopList
 import requests
 from bs4 import BeautifulSoup
-import sys
-import io
 import re
 from lxml.html import fromstring,tostring
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='gb18030')
+# sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='gb18030')
 
 class SongID(object):
     def __init__(self,No):
@@ -31,5 +29,5 @@ class SongID(object):
 
 if __name__ == '__main__':
 
-    g=SongID(3)
+    g=SongID(13)
     print(g.songid )
